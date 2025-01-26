@@ -18,8 +18,5 @@ COPY package*.json ./
 # Instalar dependencias para producción
 RUN npm install --production
 
-# Exponer el puerto que usa lite-server
-EXPOSE 3000
-
 # Comando para iniciar la aplicación
 CMD ["npm", "run", "start"]
