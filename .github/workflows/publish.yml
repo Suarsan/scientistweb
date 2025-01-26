@@ -1,0 +1,49 @@
+name: Deploy elenamarotomartin.com
+
+on:
+  push:
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+
+jobs:
+  create-docker-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Login to Github Container Registry
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.TOKEN_CD }}
+
+      - name: Build image
+        run: |
+          docker build . --tag ghcr.io/suarsan/elenamarotomartin.com:latest
+          docker push ghcr.io/suarsan/elenamarotomartin.com:latest
+  
+  deploy:
+    needs: create-docker-image
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install sshpass
+        run: sudo apt-get install -y sshpass
+
+      - name: SSH into Server
+        run: |
+          sshpass -p ${{ secrets.VPS_PASS }} ssh -o StrictHostKeyChecking=no ${{ secrets.VPS_USER }} << EOF
+          cd /var/docker/elenamarotomartin.com/
+          docker login ghcr.io -u suarsan -p ${{secrets.TOKEN_CD}}
+          docker pull ghcr.io/suarsan/elenamarotomartin.com:latest
+          docker stop elenamarotomartin.com && docker rm elenamarotomartin.com
+          docker run -d \
+            --name elenamarotomartin.com \
+            -p 6000:6000 \
+            -w /app \
+            --restart always \
+            --env-file .env \
+            ghcr.io/suarsan/elenamarotomartin.com:latest
+          EOF
