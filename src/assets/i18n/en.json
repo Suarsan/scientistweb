@@ -24,5 +24,27 @@
             "line2": "Young Investigator Award for Exemplary Abstract",
             "line3": "17th International Myeloma Workshop Annual Meeting."
         }
+    },
+    "publications": {
+        "title": "Publications",
+        "item1": {
+            "line1": "Blood Adv. 2024 Jun 11:bloodadvances.2023012298",
+            "line2": "Venetoclax resistance leads to broad resistance to standard-of-care anti-MM agents, but not to immunotherapies",
+            "line3": "Shuhui Deng, Sanika Derebail, Vera Joy Weiler, Jessica Fong Ng, Elena Maroto-Martin, Madhumouli Chatterjee, Giulia Giorgetti, Chandraditya Chakraborty, Poonam Kalhotra, Ting Du, Yao Yao, Rao H Prabhala, Masood A Shammas, Annamaria Gulla, Anil Aktas Samur, Mehmet K Samur, Lugui Qiu, Kenneth C Anderson, Mariateresa Fulciniti, Nikhil C Munshi",
+            "line4": "10.1182/bloodadvances.2023012298. PMID: 38861273"
+        },
+        "item2": {
+            "line1": "Front Immunol. 2022 Aug 3;13: 953849",
+            "line2": "Overcoming tumor resistance mechanisms in CAR-NK cell therapy. Overcoming tumor resistance mechanisms in CAR-NK cell therapy",
+            "line3": "Valeri A, García-Ortiz A, Castellano E, Córdoba L, Maroto-Martín E, Encinas J, Leivas A, Río P, Martínez-López J",
+            "line4": "10.3389/fimmu.2022.953849. PMID: 35990652; PMCID: PMC9381932.2022"
+        },
+        "item3": {
+            "line1": "Cancers (Basel). 2021 Jan 9;13(2):217",
+            "line2": "The Role of Tumor Microenvironment in Multiple Myeloma Development and Progression",
+            "line3": "García-Ortiz A, Rodríguez-García Y, Encinas J, Maroto-Martín E, Castellano E, Teixidó J, Martínez-López J",
+            "line4": "10.3390/cancers13020217. PMID: 33435306; PMCID: PMC7827690.2021"
+        }
     }
+
 }

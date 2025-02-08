@@ -9,14 +9,11 @@ import { LandingComponent } from './landing/landing.component';
 import { HomeComponent } from './components/home/home.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { AboutComponent } from './components/about/about.component';
-import { PortfolioComponent } from './components/portfolio/portfolio.component';
-import { ContactComponent } from './components/contact/contact.component';
 import { FooterComponent } from './components/footer/footer.component';
-import { SkillsComponent } from './components/skills/skills.component';
-import { SkillBarComponent } from './components/skill-bar/skill-bar.component';
 import { translateBrowserLoaderFactory } from './loaders/translate-browser.loader';
 import { TransferHttpCacheModule } from '@nguniversal/common';
 import { PrizesComponent } from './components/prizes/prizes.component';
+import { PublicationsComponent } from './components/publications/publications.component';
 
 
 @NgModule({
@@ -25,13 +22,10 @@ import { PrizesComponent } from './components/prizes/prizes.component';
     LandingComponent,
     HomeComponent,
     PrizesComponent,
+    PublicationsComponent,
     NavbarComponent,
     AboutComponent,
-    PortfolioComponent,
-    ContactComponent,
-    FooterComponent,
-    SkillsComponent,
-    SkillBarComponent
+    FooterComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),

@@ -25,5 +25,12 @@
             color: $text-dark-color;
             margin: .5rem 0 0 0;
         }
+        > p:nth-of-type(3) {
+            font-size: 1.4rem;
+            font-weight: 300;
+            color: $text-dark-color;
+            font-style: italic;
+            margin: .5rem 0 0 0;
+        }
     }
 }
