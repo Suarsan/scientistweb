@@ -7,4 +7,14 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
 
+  public downloadCV() {
+    window.open('assets/elenamarotomartin_cv.pdf', '_blank');
+    const anchor = document.createElement('a');
+    anchor.setAttribute('href', 'assets/elenamarotomartin_cv.pdf');
+    anchor.setAttribute('download', '');
+    document.body.appendChild(anchor);
+    anchor.click();
+    anchor.parentNode.removeChild(anchor);
+  }
+
 }

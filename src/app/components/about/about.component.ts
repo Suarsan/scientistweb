@@ -1,23 +1,11 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-about',
+  selector: 'section[appAbout]',
   templateUrl: './about.component.html',
   styleUrls: ['./about.component.scss']
 })
-export class AboutComponent implements OnInit {
+export class AboutComponent {
 
-  constructor() { }
-
-  ngOnInit() { }
-
-  public downloadCV() {
-    window.open('assets/elenamarotomartin_cv.pdf', '_blank');
-    const anchor = document.createElement('a');
-    anchor.setAttribute('href', 'assets/elenamarotomartin_cv.pdf');
-    anchor.setAttribute('download', '');
-    document.body.appendChild(anchor);
-    anchor.click();
-    anchor.parentNode.removeChild(anchor);
-  }
+  
 }

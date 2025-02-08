@@ -1,7 +1,15 @@
 {
     "home": {
-        "p1": "Senior Biomedical Scientist (PhD)",
-        "p2": "Over 8 years of experience in advanced immunotherapy and the development of advanced therapies, such as CAR-T cells and ADCs.",
+        "line1": "Senior Biomedical Scientist (PhD)",
+        "line2": "Over 8 years of experience in advanced immunotherapy and the development of advanced therapies, such as CAR-T cells and ADCs.",
         "download": "Download CV"
+    },
+    "about": {
+        "title": "About me",
+        "line1": "Since I began my studies in Biomedicine, I have been fascinated by the immune system's ability to combat diseases and its potential in advanced therapies. My research journey has been an exciting adventure filled with challenges and discoveries that have strengthened my belief that immunotherapy represents the future of cancer treatment.",
+        "line2": "My career started at Universidad Complutense de Madrid, where I specialized in Biomedicine and developed a strong interest in cancer research. During my PhD at the Hospital Universitario 12 de Octubre, I worked on the development of CAR-NK cells for treating multiple myeloma, discovering therapeutic combinations that enhanced the efficacy of this approach. This experience not only provided me with advanced technical skills but also deepened my understanding of the complex interaction between tumor biology and immunotherapy.",
+        "line3": "My motivation to keep exploring new research frontiers led me to a research stay at the University of Ljubljana, where I gained expertise in applied biotechnology and molecular biology techniques. Now, at Harvard Medical School / Dana-Farber Cancer Institute, combining transcriptomic and proteomic analyses I have identified new therapeutic targets and developed a nover CAR-T immunotherapy for the treatment of multiple myeloma patients, an experience that reinforced my passion for translational medicine and innovative targeted therapies.",
+        "line4": "Currently, at Massachusetts Institute of Technology (MIT), I am also working on the development of new therapeutic strategies based on antibodies and antibody-drug conjugates (ADCs), closely collaborating with experts in immunotherapy and biotechnology. My main interests focus on cellular immunotherapy engineering and the application of technological platforms to develop more effective and personalized treatments.",
+        "line5": "Throughout my career, I have had the opportunity to collaborate with researchers from different countries, which has enriched my scientific perspective and created synergies in innovative projects. I firmly believe in the power of collaborative science and the need to connect academic research with the biotech industry to transform discoveries into real therapeutic solutions."
     }
 }
