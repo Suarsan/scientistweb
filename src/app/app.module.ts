@@ -16,6 +16,7 @@ import { SkillsComponent } from './components/skills/skills.component';
 import { SkillBarComponent } from './components/skill-bar/skill-bar.component';
 import { translateBrowserLoaderFactory } from './loaders/translate-browser.loader';
 import { TransferHttpCacheModule } from '@nguniversal/common';
+import { PrizesComponent } from './components/prizes/prizes.component';
 
 
 @NgModule({
@@ -23,6 +24,7 @@ import { TransferHttpCacheModule } from '@nguniversal/common';
     AppComponent,
     LandingComponent,
     HomeComponent,
+    PrizesComponent,
     NavbarComponent,
     AboutComponent,
     PortfolioComponent,
