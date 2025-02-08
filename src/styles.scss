@@ -1,6 +1,8 @@
 @import 'main';
 
 html, body {
+    display: flex;
+    flex-direction: column;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -16,8 +18,12 @@ body {
     overflow: auto;
 }
 
-h1, h2, h3, h4, h5, h6, p, span, button, input, textarea {
+h1, h3, h4, h5, h6, p, span, button, input, textarea {
     font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: "DM Serif Text", serif;
 }
 
 ::-webkit-scrollbar {
