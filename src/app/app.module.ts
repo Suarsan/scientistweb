@@ -14,6 +14,8 @@ import { translateBrowserLoaderFactory } from './loaders/translate-browser.loade
 import { TransferHttpCacheModule } from '@nguniversal/common';
 import { PrizesComponent } from './components/prizes/prizes.component';
 import { PublicationsComponent } from './components/publications/publications.component';
+import { CongressesComponent } from './components/congresses/congresses.component';
+import { PressComponent } from './components/press/press.component';
 
 
 @NgModule({
@@ -23,6 +25,8 @@ import { PublicationsComponent } from './components/publications/publications.co
     HomeComponent,
     PrizesComponent,
     PublicationsComponent,
+    CongressesComponent,
+    PressComponent,
     NavbarComponent,
     AboutComponent,
     FooterComponent
