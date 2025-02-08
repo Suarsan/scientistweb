@@ -1,7 +1,7 @@
 import { Component, HostListener } from '@angular/core';
 
 @Component({
-  selector: 'app-navbar',
+  selector: 'header[appNavbar]',
   templateUrl: './navbar.component.html',
   styleUrls: ['./navbar.component.scss']
 })
