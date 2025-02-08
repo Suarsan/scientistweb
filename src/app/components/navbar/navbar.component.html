@@ -1,0 +1,13 @@
+<nav [class.hide]="hidden" [class.open]="opened">
+  <i></i>
+  <a (click)="toggle()">
+    <i></i>
+    <i></i>
+    <i></i>
+  </a>
+  <ul>
+    <li (click)="toggle(false)"><a href="#about">{{ 'navbar.about' | translate }}</a></li>
+    <li (click)="toggle(false)"><a href="#portfolio">{{ 'navbar.portfolio' | translate }}</a></li>
+    <li (click)="toggle(false)"><a href="#contact">{{ 'navbar.contact' | translate }}</a></li>
+  </ul>
+</nav>

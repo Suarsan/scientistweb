@@ -1,0 +1,29 @@
+@import '../../../colors';
+
+:host {
+    display: flex;
+    flex-direction: column;
+    > section {
+        display: flex;
+        flex-direction: column;
+        background-color: $text-dark-color;
+        padding: 5rem 12% 7.5rem 12%;
+        > div {
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    :host {
+        > section {
+            flex-direction: row;
+            padding: 5rem 12% 10rem 12%;
+            > div {
+                flex-basis: 50%;
+                margin-right: 5rem;
+            }
+        }
+    }
+}

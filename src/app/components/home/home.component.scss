@@ -1,0 +1,189 @@
+@import '../../../colors';
+
+:host {
+    display: flex;
+    flex-direction: column;
+    > section {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100vh;
+        background-image: url('../../../assets/images/home_bg.jpg');
+        background-size: cover;
+        background-position: center;
+        > div:nth-of-type(1) {
+            height: 20vh;
+        }
+        > h1 {
+            font-size: 3.5rem;
+            font-weight: 400;
+            letter-spacing: 10px;
+            text-align: center;
+            color: $primary-color;
+            margin: 0 3rem;
+            &::selection {
+                background: rgba($text-light-color, 1);
+            }
+        }
+        > i {
+            margin: 3rem auto;
+            width: 5rem;
+            height: .25rem;
+            background-color: rgba($text-light-color, 1);
+            animation: 2s linear 0s normal none infinite blink;
+            -webkit-animation: 2s linear 0s normal none infinite blink;
+            -moz-animation: 2s linear 0s normal none infinite blink;
+            -o-animation: 2s linear 0s normal none infinite blink;
+        }
+        > div:nth-of-type(2) {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            color: rgba($text-dark-color, 0.5);
+            > div {
+                display: flex;
+                flex-direction: column;
+                position: absolute;
+                top: 0;
+                left: 50%;
+                transform: translateX(-50%);
+                > div {
+                    display: flex;
+                    flex-direction: row;
+                    overflow: hidden;
+                    height: 6rem;
+                    > p {
+                        display: flex;
+                        flex-direction: row;
+                        align-items: center;
+                        font-size: 2.5rem;
+                        font-weight: 200;
+                        margin: 0 2rem 0 0;
+                        color: rgba($text-dark-color, 1);
+                        &::selection {
+                            background: rgba($text-light-color, 1);
+                        }
+                    }
+                    > ul {
+                        display: flex;
+                        flex-direction: column;
+                        margin: 0;
+                        padding: 0;
+                        text-align: left;
+                        list-style: none;
+                        animation: 15s linear 0s normal none infinite change;
+                        -webkit-animation: 15s linear 0s normal none infinite change;
+                        -moz-animation: 15s linear 0s normal none infinite change;
+                        -o-animation: 15s linear 0s normal none infinite change; 
+                        > li > div {
+                            display: flex;
+                            flex-direction: row;
+                            align-items: center;
+                            width: min-content;
+                            height: 4rem;
+                            margin: 1rem 0;
+                            padding: 0 1rem;
+                            background-color: rgba($primary-color, 1);
+                            box-sizing: border-box;
+                            font-size: 2rem;
+                            font-weight: 500;
+                            color: rgba($text-light-color, 1);
+                        }
+                    }
+                }
+            }
+        }
+        &:before {
+            content: '';
+            position: absolute;
+            bottom: 25px;
+            left: 50%;
+            transform: translateX(-50%);
+            text-align: center;
+            border-top: 15px solid rgba(255, 255, 255, 1);
+            border-left: 15px solid transparent;
+            border-right: 15px solid transparent;
+            animation: 2s linear 0s normal none infinite zoom;
+            -webkit-animation: 2s linear 0s normal none infinite zoom;
+            -moz-animation: 2s linear 0s normal none infinite zoom;
+            -o-animation: 2s linear 0s normal none infinite zoom;
+        }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    :host {
+        > section {
+            > div:nth-of-type(1) {
+                height: 30vh;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    :host {
+        > section {
+            > h1 {
+                font-size: 4rem;
+            }
+            > i {
+                margin: 5rem auto;
+            }
+        }
+    }
+}
+
+@keyframes change {
+    0%   { margin-top: 0; } 
+    15%  { margin-top: 0; }
+    20%  { margin-top: -6rem; }
+    35%  { margin-top: -6rem; }
+    40%  { margin-top: -12rem; }
+    55%  { margin-top: -12rem; }
+    60%  { margin-top: -18rem; }
+    75%  { margin-top: -18rem; }
+    80%  { margin-top: -24rem; }
+    95%  { margin-top: -24rem; }
+    100% { margin-top: -30rem ; } 
+}
+@-webkit-keyframes change {
+    0%   { margin-top: 0; } 
+    15%  { margin-top: 0; }
+    20%  { margin-top: -6rem; }
+    35%  { margin-top: -6rem; }
+    40%  { margin-top: -12rem; }
+    55%  { margin-top: -12rem; }
+    60%  { margin-top: -18rem; }
+    75%  { margin-top: -18rem; }
+    80%  { margin-top: -24rem; }
+    95%  { margin-top: -24rem; }
+    100% { margin-top: -30rem ; } 
+}
+
+@keyframes blink {
+    0%   { opacity: 0; }
+    10%  { opacity: 1; }
+    90%  { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+@-webkit-keyframes blink {
+    0%   { opacity: 0; }
+    10%  { opacity: 1; }
+    90%  { opacity: 1; }
+    100% { opacity: 0; }
+}
+@keyframes zoom {
+    0%   { opacity: 0; }
+    50%  { opacity: 1; transform: translateX(-50%) scale(1.5); }
+    100% { opacity: 0; }
+}
+
+@-webkit-keyframes zoom {
+    0%   { opacity: 0; }
+    10%  { opacity: 1; }
+    50%  { opacity: 1; transform: translateX(-50%) scale(1.5); }
+    90%  { opacity: 1; }
+    100% { opacity: 0; }
+}

@@ -6,17 +6,21 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install
 COPY . .
+RUN npm run build:ssr
 
 # Etapa 2: Servidor
 FROM node:18-alpine
 WORKDIR /app
 
-# Copiar archivos al contenedor
-COPY --from=build /app ./
+# Copiar archivos del build al contenedor
+COPY --from=build /app/dist ./
 COPY package*.json ./
 
 # Instalar dependencias para producción
 RUN npm install --production
 
-# Comando para iniciar la aplicación
-CMD ["npm", "run", "start"]
+# Exponer el puerto que usa Angular Universal
+EXPOSE 6000
+
+# Comando para iniciar la aplicación SSR
+CMD ["node", "server/main.js"]
