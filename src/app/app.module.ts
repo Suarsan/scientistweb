@@ -18,6 +18,7 @@ import { CongressesComponent } from './components/congresses/congresses.componen
 import { PressComponent } from './components/press/press.component';
 import { ExperienceComponent } from './components/experience/experience.component';
 import { SkillsComponent } from './components/skills/skills.component';
+import { CompetenciesComponent } from './components/competencies/competencies.component';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import { SkillsComponent } from './components/skills/skills.component';
     PressComponent,
     ExperienceComponent,
     SkillsComponent,
+    CompetenciesComponent,
     NavbarComponent,
     AboutComponent,
     FooterComponent

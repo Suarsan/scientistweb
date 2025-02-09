@@ -218,6 +218,32 @@
         "line7": "Strategic planning",
         "line8": "Cross functionallity",
         "line9": "Team work"
+    },
+    "competencies": {
+        "title": "Competencies",
+        "item1": {
+            "line1": "Project Leadership. Expertise in managing and executing complex research projects"
+        },
+        "item2": {
+            "line1": "Regulatory & Compliance",
+            "line2": "Knowledge of industry standards (GMP, GCP, FDA/ICH) and regulatory frameworks"
+        },
+        "item3": {
+            "line1": "Therapeutic Development",
+            "line2": "Proficient in antibody engineering, ADCs, CAR-T/NK therapies, and biologics"
+        },
+        "item4": {
+            "line1": "Data Analysis & Omics",
+            "line2": "Skilled in integrating omics data and driving translational research"
+        },
+        "item5": {
+            "line1": "Scientific Communication",
+            "line2": "Strong background in presenting complex data to diverse audiences"
+        },
+        "item6": {
+            "line1": "Cross-Functional Collaboration",
+            "line2": "Effective team leader, collaborating with multidisciplinary teams to drive therapeutic innovation"
+        }
     }
 
 }
