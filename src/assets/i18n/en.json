@@ -156,6 +156,56 @@
             "line2": "¡Estamos de enhorabuena!",
             "line3": "https://x.com/criscancer/status/1173628589834735616"
         }
+    },
+    "experience": {
+        "title": "Experience",
+        "item1": {
+            "line1": "Senior Research Scientist",
+            "line2": "04/2023 - Present",
+            "line3": "Harvard Medical School / Dana-Farber Cancer Institute (DFCI), Boston USA",
+            "points": {
+                "point1": "Led novel immunotherapy projects targeting hematological cancers, managing them from concept to execution.",
+                "point2": "Identified and validated new therapeutic targets in vitro and in vivo using advanced data analysis, supporting biologic and cell therapy development.",
+                "point3": "Engineered next-generation CAR-T therapies, contributing to targeted cancer treatments.",
+                "point4": "Secured funding through successful grant writing, strategic project planning, and cross-institutional collaboration.",
+                "point5": "Ensured compliance with industry regulations (SOPs, GCP, FDA/ICH).",
+                "point6": "Collaborated with clinician and industry experts to translate research into therapeutic applications.",
+                "point7": "Prepared and delivered scientific presentations at major conferences and international meetings.",
+                "point8": "Mentored junior researchers, fostering career growth and team development."
+            }
+        },
+        "item2": {
+            "line1": "Visiting Research Scientist",
+            "line2": "07/2023 - Present",
+            "line3": "Massachusetts Institute of Technology (MIT), Cambridge USA",
+            "points": {
+                "point1": "Developed antibody-dug conjugates (ADCs) for targeted cancer therapies, including synthesis, purification, and evaluation.",
+                "point2": "Designed and implemented binding assays to assess antibody specificity and functionality, supporting drug development and quality control.",
+                "point3": "Led collaborative research projects, coordinating cross-disciplinary teams to advance antibody-based immunotherapies.",
+                "point4": "Prepared and presented results, driving strategic decisions and project direction."
+            }
+        },
+        "item3": {
+            "line1": "Scientific Research Assistant",
+            "line2": "02/2018 - 04/2023",
+            "line3": "Fundación de Investigación Biomédica, Hospital U. 12 de Octubre, Madrid",
+            "points": {
+                "point1": "Designed and optimized two CAR-NK products for treating multiple myeloma, enhancing therapeutic efficacy.",
+                "point2": "Contributed to the scale-up of cell-based therapies and GMP-compliant manufacturing processes.",
+                "point3": "Ensured compliance with EMA and GMP standards in research.",
+                "point4": "Presented research at 2+ national and 4+ international congresses, earning two awards for outstanding presentations.",
+                "point5": "Led and mentored BSc and MSc students, providing guidance on research projects and professional development."
+            }
+        },
+        "item4": {
+            "line1": "Research Intern",
+            "line2": "09/2014 - 07/2015",
+            "line3": "University of Ljubljana, Slovenia",
+            "points": {
+                "point1": "Collaborated on cancer research projects, focusing on protein-based studies in the Department of Biochemistry.",
+                "point2": "Developed strong problem-solving and technical skills, contributing to advancing oncology research."
+            }
+        }
     }
 
 }

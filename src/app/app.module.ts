@@ -16,6 +16,7 @@ import { PrizesComponent } from './components/prizes/prizes.component';
 import { PublicationsComponent } from './components/publications/publications.component';
 import { CongressesComponent } from './components/congresses/congresses.component';
 import { PressComponent } from './components/press/press.component';
+import { ExperienceComponent } from './components/experience/experience.component';
 
 
 @NgModule({
@@ -27,6 +28,7 @@ import { PressComponent } from './components/press/press.component';
     PublicationsComponent,
     CongressesComponent,
     PressComponent,
+    ExperienceComponent,
     NavbarComponent,
     AboutComponent,
     FooterComponent
