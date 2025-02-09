@@ -17,7 +17,7 @@ import { PublicationsComponent } from './components/publications/publications.co
 import { CongressesComponent } from './components/congresses/congresses.component';
 import { PressComponent } from './components/press/press.component';
 import { ExperienceComponent } from './components/experience/experience.component';
-
+import { SkillsComponent } from './components/skills/skills.component';
 
 @NgModule({
   declarations: [
@@ -29,6 +29,7 @@ import { ExperienceComponent } from './components/experience/experience.componen
     CongressesComponent,
     PressComponent,
     ExperienceComponent,
+    SkillsComponent,
     NavbarComponent,
     AboutComponent,
     FooterComponent
