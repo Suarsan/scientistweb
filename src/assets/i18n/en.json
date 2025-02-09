@@ -220,7 +220,7 @@
         "line9": "Team work"
     },
     "competencies": {
-        "title": "Competencies",
+        "title": "Core",
         "item1": {
             "line1": "Project Leadership. Expertise in managing and executing complex research projects"
         },
@@ -250,7 +250,7 @@
         "item1": {
             "line1": "Universidad Complutense de Madrid",
             "line2": "2018 - 2023",
-            "line3": "PhD in Biomedical Research,",
+            "line3": "PhD in Biomedical Research",
             "line4": "Development of allogeneic CAR NK therapies for relapsed multiple myeloma patients. Summa Cum Laude"
         },
         "item2": {
