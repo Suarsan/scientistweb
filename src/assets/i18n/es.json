@@ -1,0 +1,287 @@
+{
+    "home": {
+        "line1": "Científico Biomédico Senior (PhD)",
+        "line2": "Más de 8 años de experiencia en inmunoterapia avanzada y desarrollo de terapias avanzadas, como células CAR-T y ADCs.",
+        "download": "Descargar CV"
+    },
+    "about": {
+        "title": "Sobre mí",
+        "line1": "Desde que comencé mis estudios en Biomedicina, me ha fascinado la capacidad del sistema inmunológico para combatir enfermedades y su potencial en terapias avanzadas. Mi trayectoria investigadora ha sido una emocionante aventura llena de desafíos y descubrimientos que han fortalecido mi creencia de que la inmunoterapia representa el futuro del tratamiento del cáncer.",
+        "line2": "Mi carrera comenzó en la Universidad Complutense de Madrid, donde me especialicé en Biomedicina y desarrollé un fuerte interés en la investigación del cáncer. Durante mi doctorado en el Hospital Universitario 12 de Octubre, trabajé en el desarrollo de células CAR-NK para el tratamiento del mieloma múltiple, descubriendo combinaciones terapéuticas que mejoraron la eficacia de este enfoque. Esta experiencia no solo me proporcionó habilidades técnicas avanzadas, sino que también profundizó mi comprensión de la compleja interacción entre la biología tumoral y la inmunoterapia.",
+        "line3": "Mi motivación por seguir explorando nuevas fronteras de investigación me llevó a una estancia en la Universidad de Ljubljana, donde adquirí experiencia en técnicas de biotecnología aplicada y biología molecular. Ahora, en la Escuela de Medicina de Harvard / Instituto del Cáncer Dana-Farber, combinando análisis transcriptómicos y proteómicos, he identificado nuevos objetivos terapéuticos y desarrollado una novedosa inmunoterapia CAR-T para el tratamiento de pacientes con mieloma múltiple, una experiencia que reforzó mi pasión por la medicina traslacional y las terapias dirigidas innovadoras.",
+        "line4": "Actualmente, en el Instituto Tecnológico de Massachusetts (MIT), también estoy trabajando en el desarrollo de nuevas estrategias terapéuticas basadas en anticuerpos y conjugados anticuerpo-fármaco (ADCs), colaborando estrechamente con expertos en inmunoterapia y biotecnología. Mis principales intereses se centran en la ingeniería de inmunoterapias celulares y la aplicación de plataformas tecnológicas para desarrollar tratamientos más efectivos y personalizados.",
+        "line5": "A lo largo de mi carrera, he tenido la oportunidad de colaborar con investigadores de diferentes países, lo que ha enriquecido mi perspectiva científica y creado sinergias en proyectos innovadores. Creo firmemente en el poder de la ciencia colaborativa y en la necesidad de conectar la investigación académica con la industria biotecnológica para transformar los descubrimientos en soluciones terapéuticas reales."
+    },
+    "honors": {
+        "title": "Logros",
+        "item1": {
+            "line1": "2021 · Viena (Austria)",
+            "line2": "Premio Joven Investigador por Resumen Ejemplar",
+            "line3": "18ª Reunión Anual del Taller Internacional de Mieloma."
+        },
+        "item2": {
+            "line1": "2019 · Boston MA (EE. UU.)",
+            "line2": "Premio Joven Investigador por Resumen Ejemplar",
+            "line3": "17ª Reunión Anual del Taller Internacional de Mieloma."
+        }
+    },
+    "publications": {
+        "title": "Publicaciones",
+        "item1": {
+            "line1": "Blood Adv. 2024 Jun 11:bloodadvances.2023012298",
+            "line2": "La resistencia a Venetoclax conduce a una resistencia amplia a los agentes anti-MM estándar, pero no a las inmunoterapias",
+            "line3": "Shuhui Deng, Sanika Derebail, Vera Joy Weiler, Jessica Fong Ng, Elena Maroto-Martin, Madhumouli Chatterjee, Giulia Giorgetti, Chandraditya Chakraborty, Poonam Kalhotra, Ting Du, Yao Yao, Rao H Prabhala, Masood A Shammas, Annamaria Gulla, Anil Aktas Samur, Mehmet K Samur, Lugui Qiu, Kenneth C Anderson, Mariateresa Fulciniti, Nikhil C Munshi",
+            "line4": "10.1182/bloodadvances.2023012298. PMID: 38861273"
+        },
+        "item2": {
+            "line1": "Front Immunol. 2022 Aug 3;13: 953849",
+            "line2": "Superando los mecanismos de resistencia tumoral en la terapia con células CAR-NK. Superando los mecanismos de resistencia tumoral en la terapia con células CAR-NK",
+            "line3": "Valeri A, García-Ortiz A, Castellano E, Córdoba L, Maroto-Martín E, Encinas J, Leivas A, Río P, Martínez-López J",
+            "line4": "10.3389/fimmu.2022.953849. PMID: 35990652; PMCID: PMC9381932.2022"
+        },
+        "item3": {
+            "line1": "Cancers (Basel). 2021 Jan 9;13(2):217",
+            "line2": "El papel del microambiente tumoral en el desarrollo y progresión del mieloma múltiple",
+            "line3": "García-Ortiz A, Rodríguez-García Y, Encinas J, Maroto-Martín E, Castellano E, Teixidó J, Martínez-López J",
+            "line4": "10.3390/cancers13020217. PMID: 33435306; PMCID: PMC7827690.2021"
+        }
+    },
+    "congresses": {
+        "title": "Congresos",
+        "item1": {
+            "line1": "2024",
+            "line2": "La edición múltiple con CRISPR/CAS9 mejora el potencial terapéutico de las células CAR NK contra el mieloma múltiple. Póster. 66ª Reunión Anual de la Sociedad Americana de Hematología (ASH), San Diego, CA.",
+            "line3": "Eva Castellano; Almudena Garcia Ortiz; Laura Ugalde; Elena Maroto Martin; Jessica Encinas Mayoral; Raquel Oliva; Laura Garcia Garcia; Irene Peña; Noemi Alvarez; Gonzalo Carreño; Rosa Ayala; Laura Cordoba; Alejandra Leivas; Guillermo Suñe; Beatriz Martin Antonio; Rafael Alonso Fernandez; Maria Teresa Cedena Romero; Joaquin Martinez Lopez; Paula Rio; Antonio Valeri."
+        },
+        "item2": {
+            "line1": "2024",
+            "line2": "Edición múltiple del genoma con CRISPR/Cas9 en células CAR NK derivadas de sangre de cordón umbilical para mejorar su persistencia y potencial antitumoral contra el mieloma múltiple. Póster. 21ª Reunión Anual de la Sociedad Internacional de Mieloma. Río de Janeiro, Brasil.",
+            "line3": "Eva Castellano; Almudena Garcia Ortiz; Laura Ugalde; Elena Maroto Martin; Jessica Encinas; Raquel Oliva; Laura Garcia Garcia; Noemi Alvarez; Gonzalo Carreño; Rosa Ayala; Laura Cordoba; Alejandra Leivas; Guillermo Suñé; Rafael Alonso Fernandez; Maria Teresa Cedena; Beatriz Martin Antonio; Joaquin Martinez Lopez; Paula Rio; Antonio Valeri."
+        },
+        "item3": {
+            "line1": "2023",
+            "line2": "El bloqueo de α-NKG2A supera la resistencia del mieloma múltiple a las células CAR-NKAE BCMA y NKG2D. Presentación oral. 20ª Reunión del Taller Internacional de Mieloma. Atenas, Grecia.",
+            "line3": "Jessica Encinas; Almudena García Ortiz; Elena Maroto Martín; Eva Castellano; Raquel Oliva; Rafael Alonso; Teresa Cedena; Alejandra Leivas; Laura García García; Beatriz Martín Antonio; Guillermo Suñe; Dean A Lee; Rao Prabhala; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item4": {
+            "line1": "2023",
+            "line2": "El eje HLA-E/NKG2A contribuye a la resistencia de las células del mieloma múltiple a la terapia NK-CAR. Presentación oral. LXV Congreso Nacional de la Sociedad Española de Hematología y Hemoterapia (SEHH), Pamplona, España.",
+            "line3": "Jessica Encinas; Almudena García Ortiz; Elena Maroto Martín; Eva Castellano; Raquel Oliva; Rafael Alonso; Teresa Cedena; Alejandra Leivas; Laura García García; Beatriz Martín Antonio; Guillermo Suñe; Dean A Lee; Rao Prabhala; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item5": {
+            "line1": "2023",
+            "line2": "“Mayor expresión de CD56 en células de mieloma múltiple aumenta la expresión de CD38, reduce los niveles intracelulares de NAD+ y mejora la eficacia de las estrategias de tratamiento basadas en Daratumumab”. Póster. 65ª Reunión Anual de la Sociedad Americana de Hematología (ASH), San Diego, CA.",
+            "line3": "Giulia Giorgetti; Pamela Becherini; Elena Maroto-Martin; Daniela Fenoglio; Debora Soncini; Claudia Martinuzzi; Santina Bruzzone; Andrea Benzi; Aimable Nahimana; Chiara Rosa Maria Uras; Anaïs Schavgoulidze; Jessica Ng Fong; Roberto M. Lemoli; Nikhil C Munshi; Mariateresa Fulciniti; Michele Cea."
+        },
+        "item6": {
+            "line1": "2023",
+            "line2": "El punto de control HLA-E/NKG2A impulsa la resistencia del mieloma múltiple a la terapia CAR-NK. Póster. Asociación Europea de Hematología (EHA). Frankfurt, Alemania.",
+            "line3": "Jessica Encinas; Almudena García Ortiz; Elena Maroto Martín; Eva Castellano; Raquel Oliva; Rafael Alonso; Teresa Cedena; Alejandra Leivas; Beatriz Martín Antonio; Guillermo Suñe; Dean A. Lee; Daniel J. Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item7": {
+            "line1": "2022",
+            "line2": "LA ELIMINACIÓN DE LOS RECEPTORES NKG2A Y TGFBR2 MEDIANTE EDICIÓN GÉNICA MÚLTIPLE AUMENTA LA POTENCIA CITOTÓXICA DE LAS CÉLULAS NK BCMA-CAR CONTRA MIELOMA MÚLTIPLE. Póster. LXIV Congreso Nacional de la SEHH y el XXXVIII Congreso Nacional de la SETH. Barcelona, España.",
+            "line3": "Eva Castellano Esparza; Paula Río Galdo; Elena Maroto Martín; Laura Ugalde Díaz; Almudena García Ortiz; Jessica Encinas Mayoral; Laura Córdoba Espejo; Alejandra Leivas Aldea; Guillermo Suñe; Beatriz Martín Antonio; Joaquín Martínez López; Antonio Valeri Lozano."
+        },
+        "item8": {
+            "line1": "2022",
+            "line2": "OPTIMIZACIÓN DEL PROTOCOLO DE PRODUCCIÓN DE CAR-NK DE SANGRE PERIFÉRICA EN CLINIMACS PRODIGY PARA USO CLÍNICO. Póster. LXIV Congreso Nacional de la SEHH y el XXXVIII Congreso Nacional de la SETH. Barcelona, España.",
+            "line3": "Laura Córdoba Espejo; Laura Sánchez Vega; Mari Liz Paciello Coronel; Patricia Del Moral Saez; Almudena García Ortiz; Eva Castellano Esparza; Jessica Encinas Mayoral; Elena Maroto Martín; José M. Sánchez Pina; R Íñiguez; Rafael Alonso; Paula Río; Antonio Valeri; Alejandra Leivas Aldea; Joaquín Martínez López."
+        },
+        "item9": {
+            "line1": "2022",
+            "line2": "Comparación exhaustiva de células CAR NK alogénicas para el tratamiento de MM. Póster. 19ª Reunión Anual de la Sociedad Internacional de Mieloma. Los Ángeles, CA.",
+            "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Eva Castellano; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; María; Teresa Cedena; Daniel J. Powell Jr.; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item10": {
+            "line1": "2022",
+            "line2": "CÉLULAS NATURAL KILLER ACTIVADAS Y EXPANDIDAS TRANSDUCIDAS CON UN RECEPTOR DE ANTÍGENO QUIMÉRICO NKG2D CONTRA LA LEUCEMIA MIELOIDE AGUDA. Póster. Asociación Europea de Hematología (EHA). Viena, Austria.",
+            "line3": "Laura Córdoba; Eva Castellano; Antonio Valeri; Paula Río; Almudena García Ortiz; Jessica Encinas; Elena Maroto Martín; Lucía Fernández Casanova; Antonio Pérez Martínez; Dean Lee; Daniel J. Powell; Alejandra Leivas; Joaquín Martínez López."
+        },
+        "item11": {
+            "line1": "2021",
+            "line2": "“Explorando un interruptor de seguridad en la inmunoterapia con células NK-92MI CAR NKG2D y BCMA”. Póster. 18ª Reunión del Taller Internacional de Mieloma. Viena, Austria.",
+            "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Eva Castellano; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J. Powell Jr.; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item12": {
+            "line1": "2021",
+            "line2": "“Explorando una inmunoterapia celular segura y efectiva &quot;off-the-shelf&quot; para el tratamiento del mieloma múltiple utilizando células NK-92MI CAR no irradiadas” Póster. Asociación Europea de Hematología (EHA).",
+            "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Eva Castellano; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J. Powell Jr.; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item13": {
+            "line1": "2021",
+            "line2": "Células NK-92MI CAR anti-BCMA y anti-NKG2D para el tratamiento del mieloma múltiple. Presentación oral. LXIII Congreso Nacional de la Sociedad Española de Hematología y Hemoterapia (SEHH), Pamplona, España.",
+            "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Eva Castellano; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J. Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item14": {
+            "line1": "2019",
+            "line2": "Explorando células NK-92 CAR NKG2D y BCMA para la terapia celular adoptiva en mieloma múltiple. Presentación oral. 17ª Reunión del Taller Internacional de Mieloma. Boston, Massachusetts.",
+            "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item15": {
+            "line1": "2019",
+            "line2": "Generación de dos nuevos productos inmunoterapéuticos con células NK modificadas genéticamente. Comparación de CAR clínicamente relevantes en mieloma múltiple. Presentación oral. LXI Congreso Nacional de la Sociedad Española de Hematología y Hemoterapia (SEHH), Valencia, España.",
+            "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        },
+        "item16": {
+            "line1": "2019",
+            "line2": "Optimización de la Monitorización de CAR-T CD19 por Citometría de Flujo y PCR Cuantitativa (qPCR). Póster. LXI Congreso Nacional de la SEHH y el XXXV Congreso Nacional de la SETH.",
+            "line3": "Almudena García Ortiz; Inmaculada Rapado; Jessica Encinas; Elena Maroto Martín; José María Sánchez Pina; Vanesa Garrido; Laura Moreno Sanz; Alexandra Juárez Rufián; Laura Rufián Vázquez; Mercedes Cáceres García; Mari Liz Paciello; Rafael Alonso; Teresa Cedena; Antonio Valeri; Joaquín Martínez López."
+        },
+        "item17": {
+            "line1": "2019",
+            "line2": "‘Células NK CAR NKG2D y BCMA eliminan eficientemente células de mieloma múltiple. Una comparación exhaustiva entre dos CAR clínicamente relevantes’; Póster; 24ª Asociación Europea de Hematología, Ámsterdam, Países Bajos.",
+            "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Teresa Cedena; Laura Ugalde; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
+        }
+    },
+    "press": {
+        "title": "Prensa",
+        "item1": {
+            "line1": "RTVE · Marca España",
+            "line2": "Elena Maroto, Premio Cris contra el Cáncer",
+            "line3": "https://www.rtve.es/play/audios/marca-espana/marca-espana-elena-maroto-premio-cris-contra-cancer-021019/5400192/"
+        },
+        "item2": {
+            "line1": "Cris contra el cáncer",
+            "line2": "Superar barreras",
+            "line3": "https://www.facebook.com/share/p/1B1PqaYYKv/"
+        },
+        "item3": {
+            "line1": "Servimedia",
+            "line2": "Una española, premiada en el Congreso Mundial de Mieloma Múltiple en Boston",
+            "line3": "https://www.servimedia.es/noticias/1173967"
+        },
+        "item4": {
+            "line1": "Cris contra el cáncer",
+            "line2": "¡Estamos de enhorabuena!",
+            "line3": "https://x.com/criscancer/status/1173628589834735616"
+        }
+    },
+    "experience": {
+        "title": "Experiencia",
+        "item1": {
+            "line1": "Científico Investigador Senior",
+            "line2": "04/2023 - Presente",
+            "line3": "Escuela de Medicina de Harvard / Instituto del Cáncer Dana-Farber (DFCI), Boston EE. UU.",
+            "points": {
+                "point1": "Lideré proyectos de inmunoterapia novedosos dirigidos a cánceres hematológicos, gestionándolos desde el concepto hasta la ejecución.",
+                "point2": "Identifiqué y validé nuevos objetivos terapéuticos in vitro e in vivo utilizando análisis de datos avanzados, apoyando el desarrollo de terapias biológicas y celulares.",
+                "point3": "Diseñé terapias CAR-T de próxima generación, contribuyendo a tratamientos contra el cáncer dirigidos.",
+                "point4": "Obtuve financiación mediante la redacción exitosa de subvenciones, planificación estratégica de proyectos y colaboración interinstitucional.",
+                "point5": "Aseguré el cumplimiento de las regulaciones de la industria (SOPs, GCP, FDA/ICH).",
+                "point6": "Colaboré con expertos clínicos y de la industria para traducir la investigación en aplicaciones terapéuticas.",
+                "point7": "Preparé y presenté presentaciones científicas en conferencias importantes y reuniones internacionales.",
+                "point8": "Mentoricé a investigadores junior, fomentando el crecimiento profesional y el desarrollo del equipo."
+            }
+        },
+        "item2": {
+            "line1": "Científico Investigador Visitante",
+            "line2": "07/2023 - Presente",
+            "line3": "Instituto Tecnológico de Massachusetts (MIT), Cambridge EE. UU.",
+            "points": {
+                "point1": "Desarrollé conjugados anticuerpo-fármaco (ADCs) para terapias contra el cáncer dirigidas, incluyendo síntesis, purificación y evaluación.",
+                "point2": "Diseñé e implementé ensayos de unión para evaluar la especificidad y funcionalidad de los anticuerpos, apoyando el desarrollo de fármacos y el control de calidad.",
+                "point3": "Lideré proyectos de investigación colaborativos, coordinando equipos interdisciplinarios para avanzar en inmunoterapias basadas en anticuerpos.",
+                "point4": "Preparé y presenté resultados, impulsando decisiones estratégicas y la dirección del proyecto."
+            }
+        },
+        "item3": {
+            "line1": "Asistente de Investigación Científica",
+            "line2": "02/2018 - 04/2023",
+            "line3": "Fundación de Investigación Biomédica, Hospital U. 12 de Octubre, Madrid",
+            "points": {
+                "point1": "Diseñé y optimicé dos productos CAR-NK para tratar el mieloma múltiple, mejorando la eficacia terapéutica.",
+                "point2": "Contribuí a la ampliación de terapias basadas en células y procesos de fabricación compatibles con GMP.",
+                "point3": "Aseguré el cumplimiento de los estándares de la EMA y GMP en la investigación.",
+                "point4": "Presenté investigaciones en 2+ congresos nacionales y 4+ internacionales, obteniendo dos premios por presentaciones destacadas.",
+                "point5": "Lideré y mentorice a estudiantes de licenciatura y maestría, brindando orientación en proyectos de investigación y desarrollo profesional."
+            }
+        },
+        "item4": {
+            "line1": "Practicante de Investigación",
+            "line2": "09/2014 - 07/2015",
+            "line3": "Universidad de Ljubljana, Eslovenia",
+            "points": {
+                "point1": "Colaboré en proyectos de investigación sobre el cáncer, centrándome en estudios basados en proteínas en el Departamento de Bioquímica.",
+                "point2": "Desarrollé fuertes habilidades de resolución de problemas y técnicas, contribuyendo al avance de la investigación en oncología."
+            }
+        }
+    },
+    "skills": {
+        "title": "Habilidades",
+        "line1": "Gestión de proyectos",
+        "line2": "Habilidades de comunicación científica",
+        "line3": "Proactividad",
+        "line4": "Aprendizaje rápido y adaptabilidad",
+        "line5": "Resolución de problemas",
+        "line6": "Asertividad y empatía",
+        "line7": "Planificación estratégica",
+        "line8": "Funcionalidad cruzada",
+        "line9": "Trabajo en equipo"
+    },
+    "competencies": {
+        "title": "Competencias",
+        "item1": {
+            "line1": "Liderazgo de proyectos. Experiencia en la gestión y ejecución de proyectos de investigación complejos"
+        },
+        "item2": {
+            "line1": "Regulación y cumplimiento",
+            "line2": "Conocimiento de estándares de la industria (GMP, GCP, FDA/ICH) y marcos regulatorios"
+        },
+        "item3": {
+            "line1": "Desarrollo terapéutico",
+            "line2": "Experto en ingeniería de anticuerpos, ADCs, terapias CAR-T/NK y biológicos"
+        },
+        "item4": {
+            "line1": "Análisis de datos y ómicas",
+            "line2": "Habilidad en la integración de datos ómicos y la investigación traslacional"
+        },
+        "item5": {
+            "line1": "Comunicación científica",
+            "line2": "Fuerte experiencia en la presentación de datos complejos a audiencias diversas"
+        },
+        "item6": {
+            "line1": "Colaboración interfuncional",
+            "line2": "Líder de equipo efectivo, colaborando con equipos multidisciplinarios para impulsar la innovación terapéutica"
+        }
+    },
+    "education": {
+        "title": "Educación",
+        "item1": {
+            "line1": "Universidad Complutense de Madrid, Madrid",
+            "line2": "2018 - 2023",
+            "line3": "Doctorado en Investigación Biomédica",
+            "line4": "Desarrollo de terapias CAR NK alogénicas para pacientes con mieloma múltiple recidivante. Summa Cum Laude"
+        },
+        "item2": {
+            "line1": "Vanderbilt University, Nashville",
+            "line2": "2022",
+            "line3": "Curso de Gestión de Datos Clínicos"
+        },
+        "item3": {
+            "line1": "Universidad Complutense de Madrid, Madrid",
+            "line2": "2021",
+            "line3": "Curso de Introducción a la Bioinformática en el Descubrimiento de Fármacos"
+        },
+        "item4": {
+            "line1": "Clínica Universidad de Navarra, Madrid",
+            "line2": "2019",
+            "line3": "Curso de Inmunoterapia y Terapia Celular en Hemato-Oncología"            
+        },
+        "item5": {
+            "line1": "Centro Nacional de Investigaciones Oncológicas (CNIO), Madrid",
+            "line2": "2018",
+            "line3": "Curso de Manejo de animales de laboratorio (funciones A, B y C)"
+        },
+        "item6": {
+            "line1": "Universidad Complutense de Madrid, Madrid",
+            "line2": "2015 - 2017",
+            "line3": "Máster en Análisis de Salud"
+        },
+        "item7": {
+            "line1": "Universidad Complutense de Madrid, Madrid",
+            "line2": "2011 - 2015",
+            "line3": "Licenciatura en Bioquímica"
+        }
+    }
+}
