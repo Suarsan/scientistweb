@@ -248,37 +248,41 @@
     "education": {
         "title": "Education",
         "item1": {
-            "line1": "Universidad Complutense de Madrid",
+            "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2018 - 2023",
             "line3": "PhD in Biomedical Research",
             "line4": "Development of allogeneic CAR NK therapies for relapsed multiple myeloma patients. Summa Cum Laude"
         },
         "item2": {
-            "line1": "Vanderbilt University",
+            "line1": "Vanderbilt University, Nashville",
             "line2": "2022",
             "line3": "Course Data Management for Clinical"
         },
         "item3": {
-            "line1": "Universidad Complutense de Madrid",
+            "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2021",
             "line3": "Course Introduction to Bioinformatics in Drug Discovery"
         },
         "item4": {
-            "line1": "Clínica Universidad de Navarra",
+            "line1": "Clínica Universidad de Navarra, Madrid",
             "line2": "2019",
             "line3": "Course Immunotherapy and Cellular Therapy in Hemato-Oncology"            
         },
         "item5": {
-            "line1": "Universidad Complutense de Madrid",
+            "line1": "National Cancer Research Center (CNIO), Madrid",
+            "line2": "2018",
+            "line3": "Course Handling of laboratory animals (functions A, B, and C)"
+        },
+        "item6": {
+            "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2015 - 2017",
             "line3": "MSc in Health Analysis"
         },
-        "item6": {
-            "line1": "Universidad Complutense de Madrid",
+        "item7": {
+            "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2011 - 2015",
             "line3": "BSc in Biochemistry"
         }
-        
     }
 
 }
