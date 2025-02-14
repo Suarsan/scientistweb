@@ -16,14 +16,16 @@
     "honors": {
         "title": "Honors",
         "item1": {
-            "line1": "2021 · Vienna (Austria)",
-            "line2": "Young Investigator Award for Exemplary Abstract",
-            "line3": "18th International Myeloma Workshop Annual Meeting."
+            "line1": "2021",
+            "line2": "Vienna (Austria)",
+            "line3": "Young Investigator Award for Exemplary Abstract",
+            "line4": "18th International Myeloma Workshop Annual Meeting."
         },
         "item2": {
-            "line1": "2019 · Boston MA (USA)",
-            "line2": "Young Investigator Award for Exemplary Abstract",
-            "line3": "17th International Myeloma Workshop Annual Meeting."
+            "line1": "2019",
+            "line2": "Boston MA (USA)",
+            "line3": "Young Investigator Award for Exemplary Abstract",
+            "line4": "17th International Myeloma Workshop Annual Meeting."
         }
     },
     "publications": {
@@ -36,7 +38,7 @@
         },
         "item2": {
             "line1": "Front Immunol. 2022 Aug 3;13: 953849",
-            "line2": "Overcoming tumor resistance mechanisms in CAR-NK cell therapy. Overcoming tumor resistance mechanisms in CAR-NK cell therapy",
+            "line2": "Overcoming tumor resistance mechanisms in CAR-NK cell therapy. ",
             "line3": "Valeri A, García-Ortiz A, Castellano E, Córdoba L, Maroto-Martín E, Encinas J, Leivas A, Río P, Martínez-López J",
             "line4": "10.3389/fimmu.2022.953849. PMID: 35990652; PMCID: PMC9381932.2022"
         },
@@ -249,37 +251,44 @@
     "education": {
         "title": "Education",
         "item1": {
+            "type": "PhD",
             "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2018 - 2023",
             "line3": "PhD in Biomedical Research",
             "line4": "Development of allogeneic CAR NK therapies for relapsed multiple myeloma patients. Summa Cum Laude"
         },
         "item2": {
+            "type": "COURSE",
             "line1": "Vanderbilt University, Nashville",
             "line2": "2022",
             "line3": "Course Data Management for Clinical"
         },
         "item3": {
+            "type": "COURSE",
             "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2021",
             "line3": "Course Introduction to Bioinformatics in Drug Discovery"
         },
         "item4": {
+            "type": "COURSE",
             "line1": "Clínica Universidad de Navarra, Madrid",
             "line2": "2019",
             "line3": "Course Immunotherapy and Cellular Therapy in Hemato-Oncology"            
         },
         "item5": {
+            "type": "COURSE",
             "line1": "National Cancer Research Center (CNIO), Madrid",
             "line2": "2018",
             "line3": "Course Handling of laboratory animals (functions A, B, and C)"
         },
         "item6": {
+            "type": "MSc",
             "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2015 - 2017",
             "line3": "MSc in Health Analysis"
         },
         "item7": {
+            "type": "BSc",
             "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2011 - 2015",
             "line3": "BSc in Biochemistry"

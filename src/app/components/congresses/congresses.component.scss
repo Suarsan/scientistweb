@@ -8,12 +8,17 @@
         flex-direction: column;
         margin: 2rem 0;
         > span {
-            font-size: 1.4rem;
+            font-size: 1.8rem;
             font-weight: 500;
-            color: $primary-color;
+            background-color: $primary-color;
+            color: $text-light-color;
+            border-radius: 3px;
+            padding: 3px 6px;
+            width: min-content;
+            margin: 0 1rem 0 0;
         }
         > p:nth-of-type(1) {
-            font-size: 1.8rem;
+            font-size: 2rem;
             font-weight: 500;
             color: $text-dark-color;
             margin: .5rem 0 0 0;
