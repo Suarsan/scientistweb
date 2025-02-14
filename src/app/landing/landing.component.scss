@@ -29,7 +29,7 @@
             background-color: $text-light-color;
         }
     }
-    > i {
+    > button {
         position: fixed;
         display: flex;
         flex-direction: column;
@@ -39,6 +39,8 @@
         right: 0;
         transform: translate(-25%, -25%);
         border-radius: 50%;
+        border: 0;
+        outline: 0;
         width: 0;
         height: 0;
         background-color: $primary-color;
@@ -48,6 +50,11 @@
         > svg {
             width: 65%;
             fill: $text-light-color;
+        }
+        &:active {
+            transform: translate(-25%, -25%) scaleX(.85) scaleY(1.15);
+            transform-origin: center center;
+            transition: all .25s ease;
         }
         &.show {
             width: 75px;
