@@ -1,0 +1,36 @@
+@import '../../../colors';
+
+@mixin button-theme($color) {
+    color: $color;
+    outline: 1px solid $color;
+    border: 0;
+    &.active {
+        outline: 3px solid $color;
+        font-weight: 600;
+    }
+}
+
+:host {
+    display: flex;
+    flex-direction: row;
+    > button {
+        font-size: 12px;
+        font-weight: 300;
+        padding: 10px 15px;
+        margin: 0 5px 0 5px;
+        background-color: transparent;
+        border-radius: 5px;
+        &:hover {
+            cursor: pointer;
+        }
+        &.light {
+            @include button-theme($text-light-color);
+        }
+        &.neutral {
+            @include button-theme($text-neutral-color);
+        }
+        &.dark {
+            @include button-theme($text-dark-color);
+        }
+    }
+}

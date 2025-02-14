@@ -15,17 +15,21 @@
         position: absolute;
         font-size: 2.4rem;
         font-weight: 600;
-        top: 12vh;
-        left: 10%;
+        top: 14vh;
+        left: 10vw;
         color: $primary-color;
+        margin: 0;
+        transition: all .15s ease-in;
     }
     &.fixed {
         height: 60px;
         > h1 {
-            position: initial;
             font-size: 1.8rem;
+            top: 30px;
+            left: 5vw;
+            transform: translateY(-50%);
+            transition: all .15s ease-out;
             font-weight: 600;
-            margin: 0 0 0 5%;
             color: $primary-color;
         }
     }

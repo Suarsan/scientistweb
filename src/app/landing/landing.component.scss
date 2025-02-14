@@ -35,17 +35,24 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        bottom: 2rem;
-        right: 2rem;
+        bottom: 0;
+        right: 0;
+        transform: translate(-25%, -25%);
         border-radius: 50%;
-        width: 75px;
-        height: 75px;
+        width: 0;
+        height: 0;
         background-color: $primary-color;
         box-shadow: 0 0 8px rgba($text-dark-color, .5);
         z-index: 4;
+        transition: width .15s ease-in, height .15s ease-in;
         > svg {
             width: 65%;
             fill: $text-light-color;
+        }
+        &.show {
+            width: 75px;
+            height: 75px;
+            transition: width .25s ease-out, height .25s ease-out;
         }
     }
 }
