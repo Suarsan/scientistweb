@@ -16,14 +16,16 @@
     "honors": {
         "title": "Logros",
         "item1": {
-            "line1": "2021 · Viena (Austria)",
-            "line2": "Premio Joven Investigador por Resumen Ejemplar",
-            "line3": "18ª Reunión Anual del Taller Internacional de Mieloma."
+            "line1": "2021",
+            "line2": "Viena (Austria)",
+            "line3": "Premio Joven Investigador por Resumen Ejemplar",
+            "line4": "18ª Reunión Anual del Taller Internacional de Mieloma."
         },
         "item2": {
-            "line1": "2019 · Boston MA (EE. UU.)",
-            "line2": "Premio Joven Investigador por Resumen Ejemplar",
-            "line3": "17ª Reunión Anual del Taller Internacional de Mieloma."
+            "line1": "2019",
+            "line2": "Boston MA (EE. UU.)",
+            "line3": "Premio Joven Investigador por Resumen Ejemplar",
+            "line4": "17ª Reunión Anual del Taller Internacional de Mieloma."
         }
     },
     "publications": {
@@ -36,7 +38,7 @@
         },
         "item2": {
             "line1": "Front Immunol. 2022 Aug 3;13: 953849",
-            "line2": "Superando los mecanismos de resistencia tumoral en la terapia con células CAR-NK. Superando los mecanismos de resistencia tumoral en la terapia con células CAR-NK",
+            "line2": "Superando los mecanismos de resistencia tumoral en la terapia con células CAR-NK.",
             "line3": "Valeri A, García-Ortiz A, Castellano E, Córdoba L, Maroto-Martín E, Encinas J, Leivas A, Río P, Martínez-López J",
             "line4": "10.3389/fimmu.2022.953849. PMID: 35990652; PMCID: PMC9381932.2022"
         },
@@ -249,40 +251,47 @@
     "education": {
         "title": "Educación",
         "item1": {
+            "type": "DOCTORADO",
             "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2018 - 2023",
             "line3": "Doctorado en Investigación Biomédica",
             "line4": "Desarrollo de terapias CAR NK alogénicas para pacientes con mieloma múltiple recidivante. Summa Cum Laude"
         },
         "item2": {
+            "type": "CURSO",
             "line1": "Vanderbilt University, Nashville",
             "line2": "2022",
             "line3": "Curso de Gestión de Datos Clínicos"
         },
         "item3": {
+            "type": "CURSO",
             "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2021",
             "line3": "Curso de Introducción a la Bioinformática en el Descubrimiento de Fármacos"
         },
         "item4": {
+            "type": "CURSO",
             "line1": "Clínica Universidad de Navarra, Madrid",
             "line2": "2019",
             "line3": "Curso de Inmunoterapia y Terapia Celular en Hemato-Oncología"            
         },
         "item5": {
+            "type": "CURSO",
             "line1": "Centro Nacional de Investigaciones Oncológicas (CNIO), Madrid",
             "line2": "2018",
             "line3": "Curso de Manejo de animales de laboratorio (funciones A, B y C)"
         },
         "item6": {
+            "type": "MASTER",
             "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2015 - 2017",
             "line3": "Máster en Análisis de Salud"
         },
         "item7": {
+            "type": "GRADO",
             "line1": "Universidad Complutense de Madrid, Madrid",
             "line2": "2011 - 2015",
-            "line3": "Licenciatura en Bioquímica"
+            "line3": "Grado en Bioquímica"
         }
     }
 }
