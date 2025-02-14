@@ -14,7 +14,8 @@
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
-        width: 100%; 
+        width: 100%;
+        margin: 0 auto;
         > section[appAbout], 
         > section[appPrizes], 
         > section[appPublications], 
@@ -60,6 +61,38 @@
             width: 75px;
             height: 75px;
             transition: width .25s ease-out, height .25s ease-out;
+        }
+    }
+}
+
+@media screen and (min-width: 552px) {
+    :host {
+        > main {
+            max-width: 552px;
+        }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    :host {
+        > main {
+            max-width: 768px;
+        }
+    }
+}
+
+@media screen and (min-width: 991px) {
+    :host {
+        > main {
+            max-width: 991px;
+        }
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    :host {
+        > main {
+            max-width: 1200px;
         }
     }
 }
