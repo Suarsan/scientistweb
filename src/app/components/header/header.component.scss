@@ -9,18 +9,24 @@
     width: 100%;
     background-color: rgba($text-light-color, .75);
     backdrop-filter: blur(5px);
-    height: 60px;
+    height: 0;
+    z-index: 2;
     > h1 {
-        font-size: 1.8rem;
+        position: absolute;
+        font-size: 2.4rem;
         font-weight: 600;
+        top: 12vh;
+        left: 10%;
         color: $primary-color;
-        margin: 0 0 0 5%;
     }
-    > nav {
-        > svg {
-            width: 40px;
-            margin: 0 2rem 0 0;
-            fill: $primary-color;
+    &.fixed {
+        height: 60px;
+        > h1 {
+            position: initial;
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin: 0 0 0 5%;
+            color: $primary-color;
         }
     }
 }

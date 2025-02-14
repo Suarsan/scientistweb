@@ -4,52 +4,52 @@
     display: flex;
     flex-direction: column;
     background-color: $text-light-color;
-    padding-top: 60px;
     > div:nth-of-type(1) {
-        height: 60px;
+        height: 18vh;
     }
     > div:nth-of-type(2) {
         display: flex;
         flex-direction: column;
-        justify-content: flex-end;
-        height: calc(45vh - 60px);
-        padding: 0 10%;
-        > h2 {
-            font-size: 4rem;
-            font-weight: 600;
-            margin: 0;
-            color: $text-dark-color;
+        min-height: 82vh;
+        > img {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: auto;
+            
         }
-        > p {
-            font-size: 1.8rem;
-            color: $text-dark-color;
-        }
-    }
-    > div:nth-of-type(3) {
-        display: flex;
-        flex-direction: column;
-        height: 30vh;
-        padding: 0 10%;
-        > button {
-            width: 200px;
-            height: 50px;
-            margin-top: 5rem;
-            text-transform: uppercase;
-            border: 2px solid $text-dark-color;
+        > div {
+            display: flex;
+            flex-direction: column;
             background-color: $text-light-color;
-            font-size: 1.8rem;
-            font-weight: 500;
-            letter-spacing: 1px;
-            color: $text-dark-color;
-            &:hover {
-                cursor: pointer;
-                background-color: $text-dark-color;
-                color: $text-light-color;
+            padding: 0 10%;
+            z-index: 1;
+            > h2 {
+                font-size: 3.6rem;
+                font-weight: 600;
+                margin: 0;
+                color: $text-dark-color;
+            }
+            > p {
+                font-size: 1.8rem;
+                color: $text-dark-color;
+            }
+            > button {
+                width: 200px;
+                height: 50px;
+                margin: 3rem 0 10rem 0;
+                text-transform: uppercase;
+                border: 2px solid $text-dark-color;
+                font-size: 1.8rem;
+                font-weight: 500;
+                letter-spacing: 1px;
+                color: $text-dark-color;
+                &:hover {
+                    cursor: pointer;
+                    background-color: $text-dark-color;
+                    color: $text-light-color;
+                }
             }
         }
-    }
-    > div:nth-of-type(4) {
-        height: 25vh;
-        background-color: $text-dark-color;
     }
 }
