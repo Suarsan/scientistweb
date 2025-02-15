@@ -15,7 +15,6 @@
         flex-direction: column;
         justify-content: flex-start;
         width: 100%;
-        margin: 0 auto;
         > section[appAbout], 
         > section[appPrizes], 
         > section[appPublications], 
@@ -28,6 +27,9 @@
             padding: 7rem 3rem 3rem 3rem;
             z-index: 1;
             background-color: $text-light-color;
+            width: 100%;
+            margin: 0 auto;
+            box-sizing: border-box;
         }
     }
     > button {
@@ -38,16 +40,16 @@
         align-items: center;
         bottom: 0;
         right: 0;
-        transform: translate(-25%, -25%);
-        border-radius: 50%;
-        border: 0;
-        outline: 0;
         width: 0;
         height: 0;
+        border: 0;
+        padding: 0;
+        outline: 0;
+        border-radius: 50%;
         background-color: $primary-color;
-        box-shadow: 0 0 8px rgba($text-dark-color, .5);
         z-index: 4;
-        transition: width .15s ease-in, height .15s ease-in;
+        transform: translate(-25%, -25%);
+        transition: all .15s ease-in;
         > svg {
             width: 65%;
             fill: $text-light-color;
@@ -60,7 +62,8 @@
         &.show {
             width: 75px;
             height: 75px;
-            transition: width .25s ease-out, height .25s ease-out;
+            box-shadow: 0 0 8px rgba($text-dark-color, .5);
+            transition: all .25s ease-outt;
         }
     }
 }
@@ -68,7 +71,17 @@
 @media screen and (min-width: 552px) {
     :host {
         > main {
-            max-width: 552px;
+            > section[appAbout], 
+            > section[appPrizes], 
+            > section[appPublications], 
+            > section[appCongresses], 
+            > section[appPress], 
+            > section[appExperience], 
+            > section[appSkills], 
+            > section[appEducation], 
+            > section[appCompetencies] {
+                max-width: 552px;
+            }
         }
     }
 }
@@ -76,7 +89,17 @@
 @media screen and (min-width: 768px) {
     :host {
         > main {
-            max-width: 768px;
+            > section[appAbout], 
+            > section[appPrizes], 
+            > section[appPublications], 
+            > section[appCongresses], 
+            > section[appPress], 
+            > section[appExperience], 
+            > section[appSkills], 
+            > section[appEducation], 
+            > section[appCompetencies] {
+                max-width: 768px;
+            }
         }
     }
 }
@@ -84,7 +107,17 @@
 @media screen and (min-width: 991px) {
     :host {
         > main {
-            max-width: 991px;
+            > section[appAbout], 
+            > section[appPrizes], 
+            > section[appPublications], 
+            > section[appCongresses], 
+            > section[appPress], 
+            > section[appExperience], 
+            > section[appSkills], 
+            > section[appEducation], 
+            > section[appCompetencies] {
+                max-width: 991px;
+            }
         }
     }
 }
@@ -92,7 +125,17 @@
 @media screen and (min-width: 1200px) {
     :host {
         > main {
-            max-width: 1200px;
+            > section[appAbout], 
+            > section[appPrizes], 
+            > section[appPublications], 
+            > section[appCongresses], 
+            > section[appPress], 
+            > section[appExperience], 
+            > section[appSkills], 
+            > section[appEducation], 
+            > section[appCompetencies] {
+                max-width: 1200px;
+            }
         }
     }
 }
