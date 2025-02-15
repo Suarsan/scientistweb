@@ -134,8 +134,29 @@
             > section[appSkills], 
             > section[appEducation], 
             > section[appCompetencies] {
+                max-width: 991px;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    :host {
+        > main {
+            > section[appAbout], 
+            > section[appPrizes], 
+            > section[appPublications], 
+            > section[appCongresses], 
+            > section[appPress], 
+            > section[appExperience], 
+            > section[appSkills], 
+            > section[appEducation], 
+            > section[appCompetencies] {
                 max-width: 1200px;
             }
+        }
+        > button {
+            display: none;
         }
     }
 }

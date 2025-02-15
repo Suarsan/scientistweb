@@ -1,5 +1,4 @@
 import { Component, HostListener } from '@angular/core';
-import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-landing',
@@ -11,8 +10,6 @@ export class LandingComponent {
   navMode: boolean;
   scrollPos: number;
   showMenu: boolean;
-
-  constructor(private router: Router) {}
 
   @HostListener('window:scroll', ['$event'])
   onScroll() {
