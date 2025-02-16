@@ -59,6 +59,9 @@
             transform-origin: center center;
             transition: all .25s ease;
         }
+        &:hover {
+            cursor: pointer;
+        }
         &.show {
             width: 75px;
             height: 75px;
@@ -154,9 +157,6 @@
             > section[appCompetencies] {
                 max-width: 1200px;
             }
-        }
-        > button {
-            display: none;
         }
     }
 }

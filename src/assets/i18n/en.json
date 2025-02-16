@@ -2,14 +2,14 @@
     "home": {
         "title": "Home",
         "line1": "Senior Biomedical Scientist (PhD)",
-        "line2": "Over 8 years of experience in advanced immunotherapy and the development of advanced therapies, such as CAR-T cells and ADCs.",
+        "line2": "Over 8 years immersed in the exciting world of immunotherapy and drug development. CAR-T/NK cell engineering and molecular biology specialist. Passionate about transforming innovative ideas into real therapeutic strategies, optimizing preclinical models and pushing the boundaries of oncology. I’ve led complex projects and international collaborations, with hands-on expertise in antibody engineering, ADC development, and cell therapy.",
         "download": "Download CV"
     },
     "about": {
         "title": "About me",
         "line1": "Since I began my studies in Biomedicine, I have been fascinated by the immune system's ability to combat diseases and its potential in advanced therapies. My research journey has been an exciting adventure filled with challenges and discoveries that have strengthened my belief that immunotherapy represents the future of cancer treatment.",
         "line2": "My career started at Universidad Complutense de Madrid, where I specialized in Biomedicine and developed a strong interest in cancer research. During my PhD at the Hospital Universitario 12 de Octubre, I worked on the development of CAR-NK cells for treating multiple myeloma, discovering therapeutic combinations that enhanced the efficacy of this approach. This experience not only provided me with advanced technical skills but also deepened my understanding of the complex interaction between tumor biology and immunotherapy.",
-        "line3": "My motivation to keep exploring new research frontiers led me to a research stay at the University of Ljubljana, where I gained expertise in applied biotechnology and molecular biology techniques. Now, at Harvard Medical School / Dana-Farber Cancer Institute, combining transcriptomic and proteomic analyses I have identified new therapeutic targets and developed a nover CAR-T immunotherapy for the treatment of multiple myeloma patients, an experience that reinforced my passion for translational medicine and innovative targeted therapies.",
+        "line3": "My motivation to keep exploring new research frontiers led me to a research stay at the University of Ljubljana, where I gained expertise in applied biotechnology and molecular biology techniques. Now, at Harvard Medical School / Dana-Farber Cancer Institute, I have identified new therapeutic targets and developed a novel CAR-T immunotherapy for the treatment of multiple myeloma patients, an experience that reinforced my passion for translational medicine and innovative targeted therapies.",
         "line4": "Currently, at Massachusetts Institute of Technology (MIT), I am also working on the development of new therapeutic strategies based on antibodies and antibody-drug conjugates (ADCs), closely collaborating with experts in immunotherapy and biotechnology. My main interests focus on cellular immunotherapy engineering and the application of technological platforms to develop more effective and personalized treatments.",
         "line5": "Throughout my career, I have had the opportunity to collaborate with researchers from different countries, which has enriched my scientific perspective and created synergies in innovative projects. I firmly believe in the power of collaborative science and the need to connect academic research with the biotech industry to transform discoveries into real therapeutic solutions."
     },
@@ -53,85 +53,90 @@
         "title": "Congresses",
         "item1": {
             "line1": "2024",
+            "line2": "A TCR-like CAR T Cell Therapy for the Treatment of MZB1 Positive Multiple Myeloma and Other B-Cell Malignancies. Poster. 66th American Society of Hematology (ASH) Annual Meeting, San Diego, CA.",
+            "line3": "Elena Maroto Martin, Yingjie Zhao, Sara Mangesh Kolhatkar, Roberto Garcia-Vicente, Mubin Tarannum, Mehmet K. Samur, Mariateresa Fulciniti, Rizwan Romee, Jianzhu Chen, Nikhil C. Munshi"
+        },
+        "item2": {
+            "line1": "2024",
             "line2": "CRISPR/CAS9 Multi-editing Enhances CAR NK Cells Therapeutic Potential Against Multiple Myeloma. Poster. 66 th American Society of Hematology (ASH) Annual Meeting, San Diego, CA.",
             "line3": "Eva Castellano; Almudena Garcia Ortiz; Laura Ugalde; Elena Maroto Martin; Jessica Encinas Mayoral; Raquel Oliva; Laura Garcia Garcia; Irene Peña; Noemi Alvarez; Gonzalo Carreño; Rosa Ayala; Laura Cordoba; Alejandra Leivas; Guillermo Suñe; Beatriz Martin Antonio; Rafael Alonso Fernandez; Maria Teresa Cedena Romero; Joaquin Martinez Lopez; Paula Rio; Antonio Valeri."
         },
-        "item2": {
+        "item3": {
             "line1": "2024",
             "line2": "Multiplex CRISPR/Cas9 Genome Editing of Cord Blood-derived CAR NK Cells to Improve Their Persistence and Antitumoral Potential Against Multiple Myeloma. Poster. 21 st International Myeloma Society Annual Meeting. Rio de Janeiro, Brazil.",
             "line3": "Eva Castellano; Almudena Garcia Ortiz; Laura Ugalde; Elena Maroto Martin; Jessica Encinas; Raquel Oliva; Laura Garcia Garcia; Noemi Alvarez; Gonzalo Carreño; Rosa Ayala; Laura Cordoba; Alejandra Leivas; Guillermo Suñé; Rafael Alonso Fernandez; Maria Teresa Cedena; Beatriz Martin Antonio; Joaquin Martinez Lopez; Paula Rio; Antonio Valeri."
         },
-        "item3": {
+        "item4": {
             "line1": "2023",
             "line2": "α-NKG2A blockade overcomes multiple myeloma resistance to BCMA and NKG2D CAR-NKAE cells. Oral. 20 th International Myeloma Workshop. Athens, Greece.",
             "line3": "Jessica Encinas; Almudena García Ortiz; Elena Maroto Martín; Eva Castellano; Raquel Oliva; Rafael Alonso; Teresa Cedena; Alejandra Leivas; Laura García García; Beatriz Martín Antonio; Guillermo Suñe; Dean A Lee; Rao Prabhala; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item4": {
+        "item5": {
             "line1": "2023",
             "line2": "El eje HLA-E/NKG2A contribuye a la resistencia de las células del mieloma múltiple a la terapia NK-CAR. Oral. LXV Congreso Nacional de la Sociedad Española de Hematología y Hemoterapia (SEHH), Pamplona, Spain.",
             "line3": "Jessica Encinas; Almudena García Ortiz; Elena Maroto Martín; Eva Castellano; Raquel Oliva; Rafael Alonso; Teresa Cedena; Alejandra Leivas; Laura García García; Beatriz Martín Antonio; Guillermo Suñe; Dean A Lee; Rao Prabhala; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item5": {
+        "item6": {
             "line1": "2023",
             "line2": "“Higher CD56 Expression on Multiple Myeloma Cells Increases CD38 Expression, Reduces Intracellular NAD+ Levels, and Enhances the Efficacy of Daratumumab-Based Treatment Strategies”. Poster. 65 th American Society of Hematology (ASH) Annual Meeting, San Diego, CA.",
             "line3": "Giulia Giorgetti; Pamela Becherini; Elena Maroto-Martin; Daniela Fenoglio; Debora Soncini; Claudia Martinuzzi; Santina Bruzzone; Andrea Benzi; Aimable Nahimana; Chiara Rosa Maria Uras; Anaïs Schavgoulidze; Jessica Ng Fong; Roberto M. Lemoli; Nikhil C Munshi; Mariateresa Fulciniti; Michele Cea."
         },
-        "item6": {
+        "item7": {
             "line1": "2023",
             "line2": "HLA-E/NKG2A checkpoint drives multiple myeloma resistance to CAR-NK therapyPoster. European Hematology Association (EHA). Frankfurt, Germany.",
             "line3": "Jessica Encinas; Almudena García Ortiz; Elena Maroto Martín; Eva Castellano; Raquel Oliva; Rafael Alonso; Teresa Cedena; Alejandra Leivas; Beatriz Martín Antonio; Guillermo Suñe; Dean A. Lee; Daniel J. Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item7": {
+        "item8": {
             "line1": "2022",
             "line2": "LA ELIMINACIÓN DE LOS RECEPTORES NKG2A Y TGFBR2 MEDIANTE EDICIÓN GÉNICA MÚLTIPLE AUMENTA LA POTENCIA CITOTÓXICA DE LAS CÉLULAS NK BCMA-CAR CONTRA MIELOMA MÚLTIPLE. Poster. LXIV Congreso Nacional de la SEHH y el XXXVIII Congreso Nacional de la SETH. Barcelona, Spain.",
             "line3": "Eva Castellano Esparza; Paula Río Galdo; Elena Maroto Martín; Laura Ugalde Díaz; Almudena García Ortiz; Jessica Encinas Mayoral; Laura Córdoba Espejo; Alejandra Leivas Aldea; Guillermo Suñe; Beatriz Martín Antonio; Joaquín Martínez López; Antonio Valeri Lozano."
         },
-        "item8": {
+        "item9": {
             "line1": "2022",
             "line2": "OPTIMIZACIÓN DEL PROTOCOLO DE PRODUCCIÓN DE CAR-NK DE SANGRE PERIFÉRICA EN CLINIMACS PRODIGY PARA USO CLÍNICO. Poster. LXIV Congreso Nacional de la SEHH y el XXXVIII Congreso Nacional de la SETH. Barcelona, Spain.",
             "line3": "Laura Córdoba Espejo; Laura Sánchez Vega; Mari Liz Paciello Coronel; Patricia Del Moral Saez; Almudena García Ortiz; Eva Castellano Esparza; Jessica Encinas Mayoral; Elena Maroto Martín; José M. Sánchez Pina; R Íñiguez; Rafael Alonso; Paula Río; Antonio Valeri; Alejandra Leivas Aldea; Joaquín Martínez López."
         },
-        "item9": {
+        "item10": {
             "line1": "2022",
             "line2": "Comprehensive comparison of allogenic CAR NK cells for MM treatment. Poster. 19th International Myeloma Society Annual Meeting. Los Angeles, CA.",
             "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Eva Castellano; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; María; Teresa Cedena; Daniel J. Powell Jr.; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item10": {
+        "item11": {
             "line1": "2022",
             "line2": "ACTIVATED AND EXPANDED NATURAL KILLER CELLS TRANSDUCED WITH AN NKG2D CHIMERIC ANTIGEN RECEPTOR AGAINST ACUTE MYELOID LEUKEMIA. Poster. European Hematology Association (EHA). Vienna, Austria.",
             "line3": "Laura Córdoba; Eva Castellano; Antonio Valeri; Paula Río; Almudena García Ortiz; Jessica Encinas; Elena Maroto Martín; Lucía Fernández Casanova; Antonio Pérez Martínez; Dean Lee; Daniel J. Powell; Alejandra Leivas; Joaquín Martínez López."
         },
-        "item11": {
+        "item12": {
             "line1": "2021",
             "line2": "“Exploring a safety switch in NKG2D and BCMA CAR NK-92MI immunotherapy”. Poster. 18 th International Myeloma Workshop. Vienna, Austria.",
             "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Eva Castellano; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J. Powell Jr.; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item12": {
+        "item13": {
             "line1": "2021",
             "line2": "“Exploring a safe and effective &quot;off-the-shelf&quot; cell-based immunotherapy for the treatment of Multiple Myeloma using non-irradiated CAR NK-92MI cells” Poster. European Hematology Association (EHA).",
             "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Eva Castellano; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J. Powell Jr.; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item13": {
+        "item14": {
             "line1": "2021",
             "line2": "Células NK-92MI CAR anti-BCMA y anti-NKG2D para el tratamiento del Mieloma Múltiple. Oral. LXIII Congreso Nacional de la Sociedad Española de Hematología y Hemoterapia (SEHH), Pamplona, Spain.",
             "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Eva Castellano; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J. Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item14": {
+        "item15": {
             "line1": "2019",
             "line2": "Exploring NKG2D and BCMA-CAR NK-92 for adoptive cellular therapy to multiple myeloma Oral. 17 th International Myeloma Workshop. Boston, Massachusetts.",
             "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item15": {
+        "item16": {
             "line1": "2019",
             "line2": "Generación de dos nuevos productos inmunoterapéuticos con células NK modificadas genéticamente. Comparación de CAR clínicamente relevantes en mieloma múltiple. Oral. LXI Congreso Nacional de la Sociedad Española de Hematología y Hemoterapia (SEHH), Valencia, Spain.",
             "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Laura Ugalde; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Beatriz Martín Antonio; Guillermo Suñe; Teresa Cedena; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
         },
-        "item16": {
+        "item17": {
             "line1": "2019",
             "line2": "Optimización de la Monitorización de CAR-T CD19 por Citometría de Flujo y PCR Cuantitativa (qPCR). Poster. LXI Congreso Nacional de la SEHH y el XXXV Congreso Nacional de la SETH.",
             "line3": "Almudena García Ortiz; Inmaculada Rapado; Jessica Encinas; Elena Maroto Martín; José María Sánchez Pina; Vanesa Garrido; Laura Moreno Sanz; Alexandra Juárez Rufián; Laura Rufián Vázquez; Mercedes Cáceres García; Mari Liz Paciello; Rafael Alonso; Teresa Cedena; Antonio Valeri; Joaquín Martínez López."
         },
-        "item17": {
+        "item18": {
             "line1": "2019",
             "line2": "‘NKG2D and BCMA-CAR NK cells efficiently eliminate multiple myeloma cells. A comprehensive comparison between two clinically relevant CARs’; Poster; 24th European Hematology Association, Amsterdam, Netherlands.",
             "line3": "Elena Maroto Martín; Jessica Encinas; Almudena García Ortiz; Rafael Alonso; Alejandra Leivas; Mari Liz Paciello; Vanesa Garrido; Teresa Cedena; Laura Ugalde; Daniel J Powell Jr; Paula Río; Joaquín Martínez López; Antonio Valeri."
@@ -223,10 +228,11 @@
         "line9": "Team work"
     },
     "competencies": {
-        "title": "Core",
+        "title": "Competencies",
         "item1": {
-            "line1": "Project Leadership. Expertise in managing and executing complex research projects"
-        },
+            "line1": "Project Leadership.",
+			"line2": "Expertise in managing and executing complex research projects"
+		},
         "item2": {
             "line1": "Regulatory & Compliance",
             "line2": "Knowledge of industry standards (GMP, GCP, FDA/ICH) and regulatory frameworks"
@@ -246,6 +252,9 @@
         "item6": {
             "line1": "Cross-Functional Collaboration",
             "line2": "Effective team leader, collaborating with multidisciplinary teams to drive therapeutic innovation"
+        },
+        "item7": {
+            "line1": "Preclinical model design & Validation"
         }
     },
     "education": {
@@ -262,7 +271,7 @@
             "type": "COURSE",
             "line1": "Vanderbilt University, Nashville",
             "line2": "2022",
-            "line3": "Course Data Management for Clinical"
+            "line3": "Course Data Management for Clinical Research"
         },
         "item3": {
             "type": "COURSE",
@@ -295,5 +304,4 @@
             "line3": "BSc in Biochemistry"
         }
     }
-
 }
