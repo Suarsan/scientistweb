@@ -41,7 +41,7 @@ jobs:
           docker stop elenamarotomartin.com && docker rm elenamarotomartin.com
           docker run -d \
             --name elenamarotomartin.com \
-            -p 6001:3000 \
+            -p 6001:6000 \
             -w /app \
             --restart always \
             --env-file .env \
