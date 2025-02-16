@@ -2,7 +2,7 @@
     "home": {
         "title": "Inicio",
         "line1": "Científico Biomédico Senior (PhD)",
-        "line2": "Más de 8 años sumergida en el apasionante mundo de la inmunoterapia y el desarrollo de fármacos. Especializada en ingeniería de células CAR-T/NK y biología molecular. Me encanta convertir ideas innovadoras en estrategias terapéuticas reales, optimizando modelos preclínicos y explorando nuevas fronteras en oncología. He liderado proyectos complejos y colaboraciones internacionales, siempre con un enfoque práctico en ingeniería de anticuerpos, desarrollo de ADCs y terapia celular.",
+        "line2": "Convirtiendo ideas innovadoras en estrategias terapéuticas reales, optimizando modelos preclínicos y explorando nuevas fronteras en oncología.",
         "download": "Descargar CV"
     },
     "about": {
@@ -19,13 +19,13 @@
             "line1": "2021",
             "line2": "Viena (Austria)",
             "line3": "Premio Joven Investigador por Trabajo Ejemplar",
-            "line4": "18ª Reunión Anual del Taller Internacional de Mieloma."
+            "line4": "18ª Congreso Anual de la Asociación Internacional de Mieloma Múltiple."
         },
         "item2": {
             "line1": "2019",
             "line2": "Boston MA (EE. UU.)",
             "line3": "Premio Joven Investigador por Trabajo Ejemplar",
-            "line4": "17ª Reunión Anual del Taller Internacional de Mieloma."
+            "line4": "17ª Congreso Anual de la Asociación Internacional de Mieloma Múltiple."
         }
     },
     "publications": {
