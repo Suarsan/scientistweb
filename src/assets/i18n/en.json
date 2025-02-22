@@ -248,63 +248,63 @@
         "title": "Key skills",
         "item1": {
             "line1": "Preclinical Trial Management",
-            "line2": "(protocol development, study design, regulatory compliance)"
+            "tags": ["protocol development", "study design", "regulatory compliance"]
         },
         "item2": {
             "line1": "Clinical Documentation",
-            "line2": "(protocols, progress reports, consent forms)"
+            "tags": ["protocols", "progress reports", "consent forms"]
         },
         "item3": {
             "line1": "Data Collection & Monitoring",
-            "line2": "(patient data, biomarker analysis, clinical assessments)"
+            "tags": ["patient data", "biomarker analysis", "clinical assessments"]
         },
         "item4": {
             "line1": "Data Analysis & Interpretation",
-            "line2": "(clinical and preclinical data, biomarker analysis, statistical analysis)"
+            "tags": ["clinical and preclinical data", "biomarker analysis", "statistical analysis"]
         },
         "item5": {
             "line1": "Regulatory Compliance",
-            "line2": "(GxP, ICH, FDA, EMA guidelines)"
+            "tags": ["GxP", "ICH", "FDA", "EMA guidelines"]
         },
         "item6": {
             "line1": "Documentation & Reporting",
-            "line2": "(SOPs, progress reports, ethics submissions)"
+            "tags": ["SOPs", "progress reports", "ethics submissions"]
         },
         "item7": {
             "line1": "Patient Safety & Data Integrity",
-            "line2": "(adherence to safety protocols, monitoring adverse events)"
+            "tags": ["adherence to safety protocols", "monitoring adverse events"]
         },
         "item8": {
             "line1": "Scientific Writing",
-            "line2": "(manuscripts, abstracts, conference presentations, study reports, regulatory documents)"
+            "tags": ["manuscripts", "abstracts", "conference presentations", "study reports", "regulatory documents"]
         },
         "item9": {
             "line1": "Project Management",
-            "line2": "(managing multiple writing projects with competing deadlines, budget management, timeline coordination)"
+            "tags": ["managing multiple writing projects with competing deadlines", "budget management", " timeline coordination"]
         },
         "item10": {
             "line1": "Cross-functional Team Leadership",
-            "line2": "(managing diverse teams, driving collaboration with clinicians and research scientists)"
+            "tags": ["managing diverse teams", "driving collaboration with clinicians and research scientists"]
         },
         "item11": {
             "line1": "Strategic Planning & Execution",
-            "line2": "(setting goals, prioritizing tasks, ensuring milestones are met)"
+            "tags": ["setting goals", "prioritizing tasks", "ensuring milestones are met"]
         },
         "item12": {
             "line1": "Clinical Research & Drug Development",
-            "line2": "(onco-hematology, CAR-T, ADCs)"
+            "tags": ["onco-hematology", "CAR-T", "ADCs"]
         },
         "item13": {
             "line1": "Stakeholder Management & Communication",
-            "line2": "(KOL engagement, reporting to senior management)"
+            "tags": ["KOL engagement", "reporting to senior management"]
         },
         "item14": {
             "line1": "Problem Solving & Process Optimization",
-            "line2": "(identifying challenges, implementing solutions)"
+            "tags": ["identifying challenges", "implementing solutions"]
         },
         "item15": {
             "line1": "Attention to Detail",
-            "line2": "(ensuring accuracy in scientific content)"
+            "tags": ["ensuring accuracy in scientific content"]
         }
     },
     "education": {

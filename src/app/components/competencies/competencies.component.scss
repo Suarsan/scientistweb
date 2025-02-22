@@ -13,11 +13,20 @@
             color: $text-dark-color;
             margin: .5rem 0 0 0;
         }
-        > p:nth-of-type(2) {
-            font-size: 1.6rem;
-            font-weight: 300;
-            color: $text-dark-color;
-            margin: .5rem 0 0 0;
+        > div {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            > span {
+                font-size: 1.6rem;
+                font-weight: 500;
+                padding: 3px 6px;
+                background-color: $primary-color;
+                color: $text-light-color;
+                font-style: normal;
+                margin: 1rem 1rem 0 0;
+                border-radius: 3px;
+            }
         }
     }
 }
