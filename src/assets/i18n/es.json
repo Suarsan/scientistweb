@@ -218,34 +218,67 @@
         }
     },
     "competencies": {
-        "title": "Competencias",
+        "title": "Habilidades",
         "item1": {
-            "line1": "Liderazgo de proyectos.",
-            "line2": "Experiencia en la gestión y ejecución de proyectos de investigación complejos"
-		},
+            "line1": "Gestión de ensayos preclínicos",
+            "line2": "(desarrollo de protocolos, diseño de estudios, cumplimiento regulatorio)"
+        },
         "item2": {
-            "line1": "Regulación y cumplimiento",
-            "line2": "Conocimiento de estándares de la industria (GMP, GCP, FDA/ICH) y marcos regulatorios"
+            "line1": "Documentación clínica",
+            "line2": "(protocolos, informes de progreso, formularios de consentimiento informado)"
         },
         "item3": {
-            "line1": "Desarrollo terapéutico",
-            "line2": "Experto en ingeniería de anticuerpos, ADCs, terapias CAR-T/NK y biológicos"
+            "line1": "Recolección y monitoreo de datos",
+            "line2": "(datos de pacientes, análisis de biomarcadores, evaluaciones clínicas)"
         },
         "item4": {
-            "line1": "Análisis de datos y ómicas",
-            "line2": "Habilidad en la integración de datos ómicos y la investigación traslacional"
+            "line1": "Análisis e interpretación de datos",
+            "line2": "(datos clínicos y preclínicos, análisis de biomarcadores, análisis estadístico)"
         },
         "item5": {
-            "line1": "Comunicación científica",
-            "line2": "Fuerte experiencia en la presentación de datos complejos a audiencias diversas"
+            "line1": "Cumplimiento regulatorio",
+            "line2": "(GxP, ICH, normativas FDA, EMA)"
         },
         "item6": {
-            "line1": "Colaboración interfuncional",
-            "line2": "Líder de equipo efectivo, colaborando con equipos multidisciplinarios para impulsar la innovación terapéutica"
+            "line1": "Documentación e informes",
+            "line2": "(SOPs, informes de progreso, presentaciones para comités de ética)"
         },
         "item7": {
-            "line1": "Desarrollo y validación de modelos preclínicos"
-		}
+            "line1": "Seguridad del paciente e integridad de los datos",
+            "line2": "(cumplimiento de protocolos de seguridad, monitoreo de eventos adversos)"
+        },
+        "item8": {
+            "line1": "Redacción científica",
+            "line2": "(manuscritos, resúmenes, presentaciones en congresos, informes de estudio, documentos regulatorios)"
+        },
+        "item9": {
+            "line1": "Gestión de proyectos",
+            "line2": "(manejo de múltiples proyectos con plazos competitivos, gestión de presupuestos, coordinación de tiempos)"
+        },
+        "item10": {
+            "line1": "Liderazgo de equipos multidisciplinares",
+            "line2": "(gestión de equipos diversos, colaboración con clínicos y científicos)"
+        },
+        "item11": {
+            "line1": "Planificación y ejecución estratégica",
+            "line2": "(definición de objetivos, priorización de tareas, cumplimiento de hitos)"
+        },
+        "item12": {
+            "line1": "Investigación clínica y desarrollo de fármacos",
+            "line2": "(onco-hematología, CAR-T, ADCs)"
+        },
+        "item13": {
+            "line1": "Gestión de stakeholders y comunicación",
+            "line2": "(interacción con KOLs, informes a la alta dirección)"
+        },
+        "item14": {
+            "line1": "Resolución de problemas y optimización de procesos",
+            "line2": "(identificación de desafíos, implementación de soluciones)"
+        },
+        "item15": {
+            "line1": "Atención al detalle",
+            "line2": "(garantizar precisión en contenido científico)"
+        }          
     },
     "education": {
         "title": "Educación",
