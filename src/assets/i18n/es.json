@@ -217,18 +217,6 @@
             }
         }
     },
-    "skills": {
-        "title": "Habilidades",
-        "line1": "Gestión de proyectos",
-        "line2": "Habilidades de comunicación científica",
-        "line3": "Proactividad",
-        "line4": "Aprendizaje rápido y adaptabilidad",
-        "line5": "Resolución de problemas",
-        "line6": "Asertividad y empatía",
-        "line7": "Planificación estratégica",
-        "line8": "Funcionalidad cruzada",
-        "line9": "Trabajo en equipo"
-    },
     "competencies": {
         "title": "Competencias",
         "item1": {

@@ -18,7 +18,6 @@ import { PublicationsComponent } from './components/publications/publications.co
 import { CongressesComponent } from './components/congresses/congresses.component';
 import { PressComponent } from './components/press/press.component';
 import { ExperienceComponent } from './components/experience/experience.component';
-import { SkillsComponent } from './components/skills/skills.component';
 import { CompetenciesComponent } from './components/competencies/competencies.component';
 import { EducationComponent } from './components/education/education.component';
 import { LangsComponent } from './components/langs/langs.component';
@@ -33,7 +32,6 @@ import { LangsComponent } from './components/langs/langs.component';
     CongressesComponent,
     PressComponent,
     ExperienceComponent,
-    SkillsComponent,
     CompetenciesComponent,
     EducationComponent,
     NavComponent,

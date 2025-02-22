@@ -217,18 +217,6 @@
             }
         }
     },
-    "skills": {
-        "title": "Skills",
-        "line1": "Project management",
-        "line2": "Scientific communication skills",
-        "line3": "Proactivity",
-        "line4": "Fast learning and adaptability",
-        "line5": "Problem solving",
-        "line6": "Assertiveness and empathy",
-        "line7": "Strategic planning",
-        "line8": "Cross functionallity",
-        "line9": "Team work"
-    },
     "competencies": {
         "title": "Competencies",
         "item1": {
