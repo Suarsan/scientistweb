@@ -170,50 +170,77 @@
     "experience": {
         "title": "Experiencia",
         "item1": {
-            "line1": "Científico Investigador Senior",
-            "line2": "04/2023 - Presente",
-            "line3": "Escuela de Medicina de Harvard / Instituto del Cáncer Dana-Farber (DFCI), Boston EE. UU.",
+            "line1": "Científica Investigadora Clínica Postdoctoral",
+            "line2": "04/2023 - Actualidad",
+            "line3": "Instituto de Cáncer Dana-Farber | Escuela de Medicina de Harvard, Boston/Cambridge USA",
             "points": {
-                "point1": "Lideré proyectos de inmunoterapia novedosos dirigidos a cánceres hematológicos, gestionándolos desde el concepto hasta la ejecución.",
-                "point2": "Identifiqué y validé nuevos objetivos terapéuticos in vitro e in vivo utilizando análisis de datos avanzados, apoyando el desarrollo de terapias biológicas y celulares.",
-                "point3": "Diseñé terapias CAR-T de próxima generación, contribuyendo a tratamientos contra el cáncer dirigidos.",
-                "point4": "Obtuve financiación mediante la redacción exitosa de subvenciones, planificación estratégica de proyectos y colaboración interinstitucional.",
-                "point5": "Aseguré el cumplimiento de las regulaciones de la industria (SOPs, GCP, FDA/ICH).",
-                "point6": "Colaboré con expertos clínicos y de la industria para traducir la investigación en aplicaciones terapéuticas.",
-                "point7": "Preparé y presenté presentaciones científicas en conferencias importantes y reuniones internacionales.",
-                "point8": "Mentoricé a investigadores junior, fomentando el crecimiento profesional y el desarrollo del equipo."
+                "point1": "Lideré el desarrollo e implementación de modelos preclínicos en hematología y oncología, incluyendo terapias avanzadas como la terapia con células CAR-T.",
+                "point2": "Gestioné, diseñé, optimicé y ejecuté proyectos de investigación independientes, así como colaboraciones con centros de investigación externos.",
+                "point3": "Establecí y mantuve colaboraciones estratégicas con expertos del sector, fomentando iniciativas de investigación interdisciplinaria.",
+                "point4": "Dirigí ensayos preclínicos en onco-hematología, utilizando modelos in vivo para evaluar la eficacia de nuevas terapias.",
+                "point5": "Desarrollé, optimicé y validé protocolos experimentales para enfoques terapéuticos innovadores en mieloma múltiple y otras neoplasias hematológicas.",
+                "point6": "Redacté y obtuve becas de investigación competitivas, desempeñando un papel clave en la financiación de proyectos.",
+                "point7": "Contribuí al proceso de patente de un enfoque terapéutico innovador, actualmente en revisión.",
+                "point8": "Escribí artículos científicos, revisiones sistemáticas y propuestas de becas, comunicando eficazmente hallazgos de investigación a audiencias especializadas y generales.",
+                "point9": "Diseñé y dirigí múltiples proyectos de investigación clínica (incluidos estudios observacionales y de evidencia del mundo real), gestionando hasta cinco proyectos simultáneamente y desarrollando sólidas habilidades de priorización y organización.",
+                "point10": "Traducí datos complejos en presentaciones impactantes, presentando hallazgos en congresos y reuniones científicas.",
+                "point11": "Aseguré el cumplimiento de normativas regulatorias, restricciones presupuestarias y plazos del proyecto.",
+                "point12": "Mentoricé y supervisé a investigadores junior, fomentando un entorno de investigación colaborativo y productivo."
             }
         },
         "item2": {
-            "line1": "Científico Investigador Visitante",
-            "line2": "07/2023 - Presente",
-            "line3": "Instituto Tecnológico de Massachusetts (MIT), Cambridge EE. UU.",
+            "line1": "Científica Biofarmacéutica | MIT",
+            "line2": "07/2023 - Actualidad",
+            "line3": "Instituto de Tecnología de Massachusetts, Boston/Cambridge USA",
             "points": {
-                "point1": "Desarrollé conjugados anticuerpo-fármaco (ADCs) para terapias contra el cáncer dirigidas, incluyendo síntesis, purificación y evaluación.",
-                "point2": "Diseñé e implementé ensayos de unión para evaluar la especificidad y funcionalidad de los anticuerpos, apoyando el desarrollo de fármacos y el control de calidad.",
-                "point3": "Lideré proyectos de investigación colaborativos, coordinando equipos interdisciplinarios para avanzar en inmunoterapias basadas en anticuerpos.",
-                "point4": "Preparé y presenté resultados, impulsando decisiones estratégicas y la dirección del proyecto."
+                "point1": "Diseñé y ejecuté estrategias experimentales para el desarrollo de nuevos candidatos terapéuticos, incluidos anticuerpos y conjugados anticuerpo-fármaco (ADCs) para aplicaciones clínicas.",
+                "point2": "Desempeñé un papel clave en la traslación de descubrimientos preclínicos a aplicaciones clínicas potenciales, contribuyendo al desarrollo de enfoques terapéuticos innovadores.",
+                "point3": "Lideré y gestioné colaboraciones interdisciplinares, trabajando estrechamente con socios académicos e industriales para avanzar en programas de descubrimiento de fármacos.",
+                "point4": "Optimicé e implementé flujos de trabajo para la ingeniería, purificación y caracterización de proteínas, mejorando la eficacia y estabilidad terapéutica.",
+                "point5": "Desarrollé y validé ensayos de unión para evaluar la interacción con el objetivo y la actividad funcional de nuevos biológicos.",
+                "point6": "Coordiné múltiples proyectos simultáneamente, asegurando una gestión eficiente de recursos y ejecución puntual.",
+                "point7": "Gestioné interacciones con stakeholders externos, fomentando sólidas asociaciones científicas y colaboraciones estratégicas."
             }
         },
         "item3": {
-            "line1": "Asistente de Investigación Científica",
+            "line1": "Científica Investigadora Clínica (PhD)",
             "line2": "02/2018 - 04/2023",
-            "line3": "Fundación de Investigación Biomédica, Hospital U. 12 de Octubre, Madrid",
+            "line3": "Unidad de Investigación Clínica en Hematología H12O-CNIO, Madrid",
             "points": {
-                "point1": "Diseñé y optimicé dos productos CAR-NK para tratar el mieloma múltiple, mejorando la eficacia terapéutica.",
-                "point2": "Contribuí a la ampliación de terapias basadas en células y procesos de fabricación compatibles con GMP.",
-                "point3": "Aseguré el cumplimiento de los estándares de la EMA y GMP en la investigación.",
-                "point4": "Presenté investigaciones en 2+ congresos nacionales y 4+ internacionales, obteniendo dos premios por presentaciones destacadas.",
-                "point5": "Lideré y mentorice a estudiantes de licenciatura y maestría, brindando orientación en proyectos de investigación y desarrollo profesional."
+                "point1": "Diseñé y llevé a cabo experimentos de biología celular y molecular en líneas celulares primarias y transformadas, así como en modelos animales transgénicos.",
+                "point2": "Desarrollé y optimicé la ingeniería de células NK primarias para su uso en inmunoterapia con CAR-NK, contribuyendo al avance de nuevas estrategias terapéuticas en neoplasias hematológicas.",
+                "point3": "Dirigí ensayos preclínicos en onco-hematología, evaluando terapias innovadoras en mieloma múltiple y otros cánceres.",
+                "point4": "Realicé citometría de flujo multiparamétrica (≥8 colores) para el perfil inmunológico profundo y la caracterización funcional de células CAR-NK y muestras de pacientes.",
+                "point5": "Procesé y analicé muestras de médula ósea y sangre periférica de pacientes con mieloma múltiple, optimizando el manejo de las muestras para ensayos citométricos y moleculares posteriores.",
+                "point6": "Establecí y gestioné colaboraciones con expertos en inmunoterapias avanzadas e investigación en oncología, interactuando activamente con líderes de opinión clave (KOLs) y expertos en áreas terapéuticas (TAEs) en congresos científicos para fortalecer asociaciones estratégicas.",
+                "point7": "Desarrollé, optimicé y validé protocolos experimentales y técnicos para terapias celulares e inmunoterapias de nueva generación, incluyendo procedimientos operativos estándar (SOPs) e informes de progreso.",
+                "point8": "Realicé análisis e interpretación de datos, generando informes y proporcionando información estratégica basada en hallazgos experimentales.",
+                "point9": "Presenté comunicaciones científicas en más de 5 congresos nacionales e internacionales, adaptando las exposiciones a audiencias médicas y científicas.",
+                "point10": "Supervisé y mentoricé a estudiantes de grado y máster, brindando formación práctica en técnicas de laboratorio y diseño experimental.",
+                "point11": "Traducí conjuntos de datos complejos en presentaciones visualmente atractivas para una comunicación efectiva con las partes interesadas."
             }
         },
         "item4": {
-            "line1": "Practicante de Investigación",
-            "line2": "09/2014 - 07/2015",
-            "line3": "Universidad de Ljubljana, Eslovenia",
+            "line1": "Becaria en Laboratorio Clínico",
+            "line2": "10/2016 - 12/2016",
+            "line3": "Unilabs, Madrid",
             "points": {
-                "point1": "Colaboré en proyectos de investigación sobre el cáncer, centrándome en estudios basados en proteínas en el Departamento de Bioquímica.",
-                "point2": "Desarrollé fuertes habilidades de resolución de problemas y técnicas, contribuyendo al avance de la investigación en oncología."
+                "point1": "Realicé una rotación de 3 meses en distintos departamentos, adquiriendo experiencia práctica en el análisis de muestras clínicas y la interpretación de resultados.",
+                "point2": "Análisis de biomarcadores, hormonales y serológicos en el departamento de Autoinmunidad y Alergias.",
+                "point3": "Realización de pruebas en hematología, inmunología y citometría de flujo.",
+                "point4": "Procesamiento de muestras para microbiología, coagulación y citogenética.",
+                "point5": "Gestión de muestras biológicas y control de calidad en la recepción y procesamiento de muestras."
+            }
+        },
+        "item5": {
+            "line1": "Investigadora Junior",
+            "line2": "09/2014 - 07/2015",
+            "line3": "Universidad de Liubliana, Eslovenia",
+            "points": {
+                "point1": "Preparé protocolos de estudio y optimicé procedimientos experimentales para proyectos de investigación oncológica basados en proteínas.",
+                "point2": "Contribuí a la investigación en oncología mediante estudios de expresión y purificación de proteínas, apoyando el desarrollo de nuevas estrategias terapéuticas.",
+                "point3": "Desarrollé habilidades técnicas y de resolución de problemas, solucionando desafíos experimentales y optimizando metodologías.",
+                "point4": "Adquirí experiencia práctica en técnicas de biología molecular y proteica, incluyendo: clonación y manipulación genética; expresión de proteínas en células de insecto mediante el sistema de baculovirus; purificación de proteínas mediante técnicas de cromatografía; análisis de interacciones proteicas mediante cross-linking en gel con ADH cross-linkers."
             }
         }
     },

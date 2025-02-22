@@ -170,50 +170,77 @@
     "experience": {
         "title": "Experience",
         "item1": {
-            "line1": "Senior Research Scientist",
+            "line1": "Postdoctoral Clinical Research Scientist",
             "line2": "04/2023 - Present",
-            "line3": "Harvard Medical School / Dana-Farber Cancer Institute (DFCI), Boston USA",
+            "line3": "Dana Farber Cancer Institute / Harvard Medical School, Boston/Cambridge USA",
             "points": {
-                "point1": "Led novel immunotherapy projects targeting hematological cancers, managing them from concept to execution.",
-                "point2": "Identified and validated new therapeutic targets in vitro and in vivo using advanced data analysis, supporting biologic and cell therapy development.",
-                "point3": "Engineered next-generation CAR-T therapies, contributing to targeted cancer treatments.",
-                "point4": "Secured funding through successful grant writing, strategic project planning, and cross-institutional collaboration.",
-                "point5": "Ensured compliance with industry regulations (SOPs, GCP, FDA/ICH).",
-                "point6": "Collaborated with clinician and industry experts to translate research into therapeutic applications.",
-                "point7": "Prepared and delivered scientific presentations at major conferences and international meetings.",
-                "point8": "Mentored junior researchers, fostering career growth and team development."
+                "point1": "Led the development and implementation of preclinical models in hematology and oncology, including advanced therapies such as CAR T-cell therapy.",
+                "point2": "Managed, designed, optimized, and executed independent research projects, as well as collaborations with external research centers.",
+                "point3": "Established and maintained strategic collaborations with experts in the field, fostering interdisciplinary research initiatives.",
+                "point4": "Conducted preclinical trials in onco-hematology, utilizing in vivo models to assess the efficacy of novel therapies.",
+                "point5": "Developed, optimized, and validated experimental protocols for cutting-edge therapeutic approaches in multiple myeloma and other hematologic malignancies.",
+                "point6": "Wrote and secured competitive research grants, playing a key role in a successfully funded grant proposal.",
+                "point7": "Contributed to the patenting process of a novel therapeutic approach, currently under review.",
+                "point8": "Authored scientific articles, systematic reviews, and grant proposals, effectively communicating research findings to both specialized and broad audiences.",
+                "point9": "Designed and directed multiple clinical research projects (including observational studies and real-world evidence studies), managing up to five projects simultaneously and honing strong prioritization and organizational skills.",
+                "point10": "Translated complex data into impactful presentations, delivering findings at scientific conferences and meetings.",
+                "point11": "Ensured compliance with regulatory guidelines, budget constraints, and project timelines.",
+                "point12": "Mentored and supervised junior researchers, fostering a collaborative and productive research environment."
             }
         },
         "item2": {
-            "line1": "Visiting Research Scientist",
+            "line1": "Biopharmaceutical Scientist MIT",
             "line2": "07/2023 - Present",
-            "line3": "Massachusetts Institute of Technology (MIT), Cambridge USA",
+            "line3": "Massachusetts Institute of Technology, Boston/Cambridge USA",
             "points": {
-                "point1": "Developed antibody-dug conjugates (ADCs) for targeted cancer therapies, including synthesis, purification, and evaluation.",
-                "point2": "Designed and implemented binding assays to assess antibody specificity and functionality, supporting drug development and quality control.",
-                "point3": "Led collaborative research projects, coordinating cross-disciplinary teams to advance antibody-based immunotherapies.",
-                "point4": "Prepared and presented results, driving strategic decisions and project direction."
+                "point1": "Designed and executed experimental strategies for the development of novel therapeutic candidates, including antibodies and antibody-drug conjugates (ADCs) for clinical applications.",
+                "point2": "Played a key role in translating preclinical discoveries into potential clinical applications, contributing to the development of innovative therapeutic approaches.",
+                "point3": "Led and managed cross-functional collaborations, working closely with academic and industry partners to advance drug discovery programs.",
+                "point4": "Optimized and implemented protein engineering, purification, and characterization workflows to enhance therapeutic efficacy and stability.",
+                "point5": "Developed and validated binding assays to assess target engagement and functional activity of novel biologics.",
+                "point6": "Coordinated multiple projects simultaneously, ensuring efficient resource management and timely execution.",
+                "point7": "Managed interactions with external stakeholders, fostering strong scientific partnerships and strategic collaborations."
             }
         },
         "item3": {
-            "line1": "Scientific Research Assistant",
+            "line1": "PhD Clinical Research Scientist",
             "line2": "02/2018 - 04/2023",
-            "line3": "Fundación de Investigación Biomédica, Hospital U. 12 de Octubre, Madrid",
+            "line3": "H12O-CNIO Haematological Malignancies Clinical Research Unit, Madrid",
             "points": {
-                "point1": "Designed and optimized two CAR-NK products for treating multiple myeloma, enhancing therapeutic efficacy.",
-                "point2": "Contributed to the scale-up of cell-based therapies and GMP-compliant manufacturing processes.",
-                "point3": "Ensured compliance with EMA and GMP standards in research.",
-                "point4": "Presented research at 2+ national and 4+ international congresses, earning two awards for outstanding presentations.",
-                "point5": "Led and mentored BSc and MSc students, providing guidance on research projects and professional development."
+                "point1": "Designed and conducted cellular and molecular biology experiments in primary and transformed cell lines, as well as in transgenic animal models.",
+                "point2": "Developed and optimized engineering of primary NK cells for use in CAR NK immunotherapy, contributing to the advancement of novel therapeutic strategies in hematologic malignancies.",
+                "point3": "Led preclinical trials in onco-hematology, evaluating innovative therapies in multiple myeloma and other cancers.",
+                "point4": "Performed multiparametric flow cytometry (≥8-color panels) for deep immune profiling and functional characterization of CAR-NK cells and patient-derived samples.",
+                "point5": "Processed and analyzed bone marrow and peripheral blood samples from multiple myeloma patients, optimizing sample handling for downstream cytometric and molecular assays.",
+                "point6": "Established and managed collaborations with experts in advanced immunotherapies and oncology research, actively engaging with key opinion leaders (KOLs) and therapeutic area experts (TAEs) at scientific congresses to strengthen strategic partnerships.",
+                "point7": "Developed, optimized, and validated experimental and technical protocols for cell-based therapies and next-generation immunotherapies, including SOPs and progress reports.",
+                "point8": "Performed data analysis and interpretation, generating reports and providing strategic insights based on experimental findings.",
+                "point9": "Delivered scientific communication at over 5 national and international conferences, tailoring presentations to medical and scientific audiences.",
+                "point10": "Supervised and mentored BSc and MSc students, providing hands-on training in laboratory techniques and experimental design.",
+                "point11": "Translated complex datasets into visually compelling presentations for effective communication with stakeholders."
             }
         },
         "item4": {
-            "line1": "Research Intern",
+            "line1": "Clinical Laboratory Trainee",
+            "line2": "10/2016 - 12/2016",
+            "line3": "Unilabs, Madrid",
+            "points": {
+                "point1": "Completed a 3-month rotation across multiple departments, gaining hands-on experience in clinical sample analysis and result interpretation.",
+                "point2": "Conducting biomarker, hormonal, and serological analyses in the Autoimmune and Allergy department.",
+                "point3": "Performing tests in hematology, immunology, and flow cytometry.",
+                "point4": "Processing samples for microbiology, coagulation, and cytogenetics.",
+                "point5": "Managing biological samples and ensuring quality control in sample reception and processing."
+            }
+        },
+        "item5": {
+            "line1": "Junior Research Scientist",
             "line2": "09/2014 - 07/2015",
             "line3": "University of Ljubljana, Slovenia",
             "points": {
-                "point1": "Collaborated on cancer research projects, focusing on protein-based studies in the Department of Biochemistry.",
-                "point2": "Developed strong problem-solving and technical skills, contributing to advancing oncology research."
+                "point1": "Prepared study protocols and optimized experimental procedures for protein-based cancer research projects.",
+                "point2": "Contributed to oncology research by conducting protein expression and purification studies, supporting advancements in therapeutic strategies.",
+                "point3": "Developed strong problem-solving and technical skills, troubleshooting experimental challenges and optimizing methodologies.",
+                "point4": "Gained hands-on experience in molecular and protein biology techniques, including: Cloning and genetic manipulation; Protein expression in insect cells using the baculovirus system; Protein purification through chromatography techniques; In-gel cross-linking analysis using ADH cross-linkers to assess protein interactions"
             }
         }
     },
